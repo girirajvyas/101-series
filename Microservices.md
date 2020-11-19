@@ -58,7 +58,7 @@ Micro-services can be written in below three frameworks:
  React/Angular  
 
 ## Micro-services with Netflix OSS
-![Microservices_Architecture](https://github.com/girirajvyas/documents/blob/master/resources/Images/Microservices_Architecture.PNG)
+![Microservices_Architecture](https://github.com/girirajvyas/resources/blob/main/Images/Microservices_Architecture.PNG)
 
 ## Micro-services Testing
  Consider you have Micro-Service Project that is dependent on the local DB for fetching data for few of the services whereas some services also calls other services to get the data.  
@@ -67,7 +67,7 @@ Micro-services can be written in below three frameworks:
  **Other services** - Mock the response via WireMock and validate the tests  
 
  You can find the same demonstrated below. 
-![Microservices_Test](https://github.com/girirajvyas/documents/blob/master/resources/Images/Microservices_Testing.PNG)
+![Microservices_Test](https://github.com/girirajvyas/resources/blob/main/Images/Microservices_Testing.PNG)
 
 Steps to enable the above testing
 **1. Add dependencies in POM**
@@ -107,5 +107,5 @@ Steps to enable the above testing
 
 
 ## API Gateway Vs Service Mesh
-![Microservices_vs Mesh](https://github.com/girirajvyas/documents/blob/master/resources/Images/API_Gateway_Vs_Service_Mesh.PNG)
+![Microservices_vs Mesh](https://github.com/girirajvyas/resources/blob/main/Images/API_Gateway_Vs_Service_Mesh.PNG)
  
