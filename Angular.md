@@ -159,6 +159,22 @@ This will generate a new folder person-list and will place a TypeScript and a st
  **angular-cli:** ng generate service heroservice (ng g s heroservice)  
 	          ng generate service heroservice --module app ()  
 
+
+## Flow
+1. You create a new component MyComponent with template(html here) and selector(this will be used in html to load this component)
+2. you specify this in the index.html
+Above steps will not work till we bootstrap our application
+3. Create Appmodule which will include all the components for this main module
+4. Include the Component MyComponent created above
+5. Create a main.ts file and load this AppModule platformBrowserDynamic.loadModule('AppModule')
+6. Now, in index.html use systemjs to load packages defined in systemjs.config.ts, In systemjs.config.ts app package is defines and bootstrap file is defined as main.ts
+
+Complete flow:
+Systemjs(reads systemjs.config.ts) -> loads main.ts -> loads AppModule defines in main.ts -> loads MyComponent defined in AppModule -> html in template rendered
+
+
+
+
 **References:**
 Style-guide: https://angular.io/guide/styleguide  
 good reference: https://www.barbarianmeetscoding.com/blog/categories/angular2-step-by-step/  

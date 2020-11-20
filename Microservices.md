@@ -109,3 +109,53 @@ Steps to enable the above testing
 ## API Gateway Vs Service Mesh
 ![Microservices_vs Mesh](https://github.com/girirajvyas/resources/blob/main/Images/API_Gateway_Vs_Service_Mesh.PNG)
  
+
+Micro-services fails because of below points:
+10. 
+9. The Monolith database
+8. The event monolith 
+7. 
+
+
+
+Two types of micro-services architecture
+https://dzone.com/articles/api-gateway-vs-service-mesh
+
+1. Gateway based (in Spring cloud it is ZUUL)
+   Netflix OSS (Netflix open source software)
+     - ZUUL Gateway
+	 - Hystrix circuit breaker
+	 - Ribbon Load balancer
+	 - Eureka Service registry
+	 - 
+
+2. Service mesh (useful when you have micro-services in multiple technologies)
+   
+
+Architecture can be designed in below way
+1. msparentpom
+   Common dependencies across all micro-services created **on the same platform**
+   update dependencies at one place and it will be available everywhere   
+   
+2. CCCLib
+
+3. MSLib
+
+Flow:
+@Produces(value=MediaType.APPLICATION_JSON)
+@Consumes(value=MediaType.APPLICATION_JSON)
+@Path(“/”)
+Public  interface DummyEP {
+      @Post
+     @Path(value = “/insert”)
+     Response insertEmployee(InsertEmployeeRequest req);
+}
+
+
+@EnableZuulGateway
+
+@EnableEurekaServer
+
+https://dzone.com/articles/using-wiremock-to-test-against-3rd-party-services
+Wiremock (com.github.tomakehurst)
+Embed.mongo (de.flapdoodle.embed)

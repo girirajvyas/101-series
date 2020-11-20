@@ -54,15 +54,12 @@ Ref: https://stackoverflow.com/questions/18686121/differences-between-time-compl
      * via divide and conquer
      * via recursion
 
-
-
 ## Sorting Algorithms 
   * Quick Sort
   * Merge Sort
   * Bubble sort
   
 ## Performance Summary
-
 
 |  Algorithm       | Best Time Complexity | Worst Time Complexity | Space Complexity |
 | ---------------- | -------------------- | --------------------- | ---------------- |
