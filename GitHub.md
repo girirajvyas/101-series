@@ -7,8 +7,8 @@ Lets see the ways in which you can initialize a repository with your code.
  - IDE
 
 What you will find below?
-- There are steps including commands to initialize and push project to remote repository
-
+ - There are steps including commands to initialize and push project to remote repository
+ - Also, you will find details about docusaurus which is used for creating the documentation.
 
 Once you are done commiting your code to github, It might be the case you start searching how to publish these changes on a site, for this you can go through **GH-Pages** 
 
@@ -90,29 +90,6 @@ This is used for publishing your changes via static site. There can be 2 types o
 **Build static content**  
 Github uses Jekyll as default site generator, but there are many good alternatives available as well.  
 
-References:  
- - https://pages.github.com/
- - https://jekyllrb.com/
- - https://jekyllrb.com/docs/installation/windows/
- - https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll
- - https://docusaurus.io/docs/en/installation/
- - https://v2.docusaurus.io/docs/installation
- 
- Git Handbook  
-- https://guides.github.com/introduction/git-handbook/
-
-Use Github Avatars  
-- https://avatars.githubusercontent.com/<username>
-- https://avatars.githubusercontent.com/u/<userid>
-
-Jekyll  
-- https://rubyinstaller.org/downloads/
-- https://jekyllrb.com/docs/step-by-step/01-setup/
-- https://docs.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll
-- https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser
-
- 
- 
 **Publish Project via gh-pages**
 In case you have to publish your code to gh-pages, e.g: girirajvyas.github.io/profile  
 Create a branch at start and delete everything in it so that we can finally deploy the dist folder.    
@@ -124,21 +101,76 @@ Create a branch at start and delete everything in it so that we can finally depl
        git push --set-upstream origin gh-pages  
     ```
 
-## References:  
-Rename Repository
-- https://stackoverflow.com/questions/5751585/how-do-i-rename-a-repository-on-github
+## Docusaurus
 
-For Github flavored MarkDown: 
+Initialize docusaurus
+```
+npx @docusaurus/init@next init gof-design-patterns classic
+```
+
+Logs: 
+```
+Success! Created gof-design-patterns
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm deploy
+    Publish website to GitHub pages.
+
+We suggest that you begin by typing:
+
+  cd gof-design-patterns
+  npm start
+```
+
+## References:  
+**Rename Repository:**
+ - https://stackoverflow.com/questions/5751585/how-do-i-rename-a-repository-on-github
+
+**For Github flavored MarkDown:** 
  - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
  - https://guides.github.com/features/mastering-markdown/
 
-Emojis in MarkDown
+**Emojis in MarkDown:**
  - https://unicode-table.com/en/sets/arrow-symbols/ - icons
  - https://www.webfx.com/tools/emoji-cheat-sheet/ -icons
  - https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
- 
-Adding new Repository via Git Bash (*it is not possible to do it with Egit plugin*)
-  - https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
 
-Other
-  - https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/   
+**Adding new Repository via Git Bash (*it is not possible to do it with Egit plugin*):**
+ - https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+**Other:**
+ - https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/  
+ - https://stackoverflow.com/questions/22932422/get-github-avatar-from-email-or-name 
+
+**Docusaurus:**  
+ - https://v2.docusaurus.io/docs/docs-introduction
+ - https://v2.docusaurus.io/docs/creating-pages
+ - https://v2.docusaurus.io/docs/deployment/
+ - https://v2.docusaurus.io/docs/installation
+
+**gh-pages:**  
+ - https://pages.github.com/
+ - https://jekyllrb.com/
+ - https://jekyllrb.com/docs/installation/windows/
+ - https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll
+ - https://docusaurus.io/docs/en/installation/
+ - https://v2.docusaurus.io/docs/installation
+ 
+**Git Handbook:**  
+- https://guides.github.com/introduction/git-handbook/
+
+**Use Github Avatars:**  
+- https://avatars.githubusercontent.com/<username>
+- https://avatars.githubusercontent.com/u/<userid>
+
+**Jekyll:**  
+- https://rubyinstaller.org/downloads/
+- https://jekyllrb.com/docs/step-by-step/01-setup/
+- https://docs.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll
+- https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser

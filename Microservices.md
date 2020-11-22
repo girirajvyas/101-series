@@ -159,3 +159,14 @@ Public  interface DummyEP {
 https://dzone.com/articles/using-wiremock-to-test-against-3rd-party-services
 Wiremock (com.github.tomakehurst)
 Embed.mongo (de.flapdoodle.embed)
+
+
+Strangler Application strategy.
+Synchronicity
+Independence
+Resiliency --
+Simplicity
+
+Event sourcing
+Choreography-based Saga instead of Orchestration-based
+microservices architecture that makes use of remote procedure calls
