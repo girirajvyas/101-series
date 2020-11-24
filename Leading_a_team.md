@@ -1,18 +1,18 @@
 # Leading a Team
 
-This is a repository of soft skills that you will be required in case of leading a team effectively. Before going into the details lets have a quick comparison between a tech lead and a specialist
+This is a repository of soft skills that you will be required in case of leading a team effectively. This tries to consolidate the learnings from multiple courses and blogs into a single place for effective learning experience.
 
 # Contents
 
- - Specialist vs Team Lead
- - 1 Managing vs Leading
-   - 1.1 Knowing when you're managing and when you're leading
-   - 1.2 Exploring manager roles
-   - 1.3 Understanding management styles 
-   - 1.4 Choosing the right style 
-   - 1.5 Going from peer to manager 
-   - 1.6 Establishing trust 
- - 2 Leading Productive Online Meetings
+ - [Specialist vs Team Lead](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#specialist-vs-team-lead)
+ - [1. Managing vs Leading](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#1-managing-vs-leading)
+   - [1.1 Knowing when you're managing and when you're leading](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#11-knowing-when-youre-managing-and-when-youre-leading) 
+   - [1.2 Exploring manager roles](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#12-exploring-manager-roles)
+   - [1.3 Understanding management styles](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#13-understanding-management-styles)
+   - [1.4 Choosing the right style](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#14-choosing-the-right-style)
+   - [1.5 Going from peer to manager](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#15-going-from-peer-to-manager)
+   - [1.6 Establishing trust](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#16-establishing-trust)
+ - [2. Leading Productive Online Meetings](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#2-leading-productive-online-meetings)
    - 2.1 Having productive meetings 
    - 2.2 Some suggestions for common challenges in meetings
  - 3 Managing Your Time and Stress
@@ -31,9 +31,9 @@ This is a repository of soft skills that you will be required in case of leading
 
  > Different roles: Team Lead, Tech Lead, Scrum Master
 
-# [1. Managing vs Leading](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#1-managing-vs-leading)
+# 1. Managing vs Leading
 
-## [1.1 Knowing when you're managing and when you're leading](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#11-knowing-when-youre-managing-and-when-youre-leading) 
+## 1.1 Knowing when you're managing and when you're leading
 Throughout your day, you're probably going back and forth between managing and leading. In today's modern organizations, leadership and management are closely intertwined because almost all people who manage others and projects or functions also have to provide leadership to their people in the organization. Let's explore the important distinctions between them.  
 
 The `primary goal of leadership is to produce change and growth`. The work of a leader is to envision a better tomorrow and design the change that will get the organization from here to there.  
@@ -53,7 +53,7 @@ Adriana is managing when she implements a new online event management system and
 6. The people skills differ as well. Both managing and leading rely on emotional intelligence, but managing is more tactical, like conducting one-on-one meetings, delegating tasks, and coaching employees to improve performance. Leading is about building the culture to maximize engagement, inspiring various stakeholders with a compelling vision, fostering collaboration, and cultivating the next generation of leaders. All of this is in service to achieving the future potential of the organization by maximizing the most important asset, its talented people. 
 Adriana is managing when she delegates various events to her team, rotating roles to build their skills. She's leading when she identifies some high potential employees and creates a cross functional team to assess industry trends and innovate new models. 
 
-## [1.2 Exploring manager roles](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#12-exploring-manager-roles)
+## 1.2 Exploring manager roles
 - As a manager, you'll play a few different roles. 
 1. **Producer**. You must produce the desired results and achieve the organization's goals through projects and tasks. 
 2. **Administrator**. You must administer systems, policies, and procedures so that the organization runs efficiently. 
@@ -102,7 +102,7 @@ From the employees' perspective, key management skills include
 
 There is overlap. The employee interaction is in service of the organization's goals, and the organization provides meaningful work and fair compensation to the employee. To be a successful manager, you’ll need to find a way to artfully navigate the inherent tensions and opportunities that live between the needs of your employees and the goals of your organization. 
 
-## [1.3 Understanding management styles](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#13-understanding-management-styles)
+## 1.3 Understanding management styles
 Management styles are the patterns of behavior people use when they hold management positions. These patterns of behavior include how they communicate, make decisions, supervise, and motivate.  
 There's a range of management styles and all are a blend of three key behaviors. Task direction, decision making, and relationship building.  
 
@@ -122,7 +122,7 @@ Let me walk through the most common management styles.
 
 As you review these styles, think about which styles you've experienced as an employee. What impact did the styles have on your productivity, motivation, and loyalty to the organization? Also, consider which style is most like you. We all tend to have a favorite or natural style that we use the most. 
 
-## [1.4 Choosing the right style](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#14-choosing-the-right-style)
+## 1.4 Choosing the right style
 So which style should you choose? Well, it all depends on your situation. With the exception of the Narcissist, all of the styles can be useful in certain context. While no one individual style is good or bad, a management style can be a good or poor fit for the situation, which determines its effectiveness.  
 Let's start with your natural style of management. Which of the styles is most like you? If you're not sure, ask friends and colleagues for their feedback.  
 It's important to know which style you default to, because that's what you're likely to do under stress. Ultimately, your natural style may be the fit for some of your employees, and they will thrive  
@@ -132,7 +132,7 @@ With employees who are new or unskilled, use high amounts of task direction and 
 One more tip, think of yourself as a habit-changer. Seriously, current developments in neuroscience have revealed new and exciting information about how humans form habits. Habits shape everything we do, from our professional to our personal lives. Every day we engage in habit loops, that have been well-built over time, and in many cases are quite grooved, both behaviorally and neurologically. Think about your own day. Habit is behind your commute to the office, how you behave in meetings, and even how you answer your phone. When we do behaviors over and over again, they become grooved, and even develop thicker neurological pathways. In fact, research has shown that it takes about 40 repetitions of a behavior before it becomes grooved as a habit, and 66 shows measurably thickening of the pathways. 
 What does this have to do with management? Well, first, as a manager, you have your own habits. Your default management style is one of them. It's well-grooved. If you want to help yourself become better at the other styles, you have to practice them, so they become habits too. In addition, managing people is largely about helping them form new habits, or better ones. As you give them task direction, or opportunities to make decisions, you're helping them develop new habits for working. Effective managers are patient and allow people time to learn and grow. Knowing that after about 40 repetitions of any new behavior, habits get formed. So play with the six styles, using them based on what's the best fit for the situation. You may even use one style with one employee, and a different style with another. Ultimately, your goal is to bring out the best in your people, and the right choice of management style is how you accomplish this. 
 
-## [1.5 Going from peer to manager](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#15-going-from-peer-to-manager)
+## 1.5 Going from peer to manager
 So you’ve been promoted to manager. Congratulations, this is a great opportunity, and if you’re like most people you’re simultaneously excited and nervous, I know I was. We’ve all experienced bad bosses, and I’m sure you want to do a good job and be someone your employees trust and respect. In fact, that should be your goal. To build a relationship with them based on trust and respect.  
 In this chapter we’ll cover ways you can do that, but first let’s talk about how you transition from being a peer to a manager.  
 If you’re coming in from the outside and haven’t worked alongside your reports it can be easier, because you don’t have a previous relationship with them. You come into a role of authority. While they don’t know you, they also don’t have any preconceived notions about you. However, you’ll have more work to do to help them get to know you and trust you.  
@@ -152,7 +152,7 @@ Also, it’s a good idea to meet with your colleagues in other departments, and 
 **Fifth, take time to craft your overall strategy.** Once you’ve gathered information you want to think about how you can address and resolve some of the challenges while also maximizing strengths and opportunities. This all needs to work within the structures and resources you have. By crafting your overall plan it will help you map out how you’ll make changes over time. In addition, it will be the North Star that will guide your decision making in all kinds of situations. 
 **Finally, pace yourself.** I know you may be chomping at the bit to get started, but if you rush too quickly you may accidentally damage the relationships you’re trying to build. Your effectiveness as a manager is completely dependent on your ability to build positive working relationships with people all over your organization. So, focus on that first, and the rest will follow. 
 
-## [1.6 Establishing trust](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#16-establishing-trust)
+## 1.6 Establishing trust
 Establishing trust is an ongoing practice, something you do every day in your words and actions. As a manager, your success is dependent on creating an environment where you're seen as trustworthy, not only by your directory ports but also your supervisors and your peers. So how do you build trust? Let's look at the key practices. 
 
  - **First, have integrity with your words and actions.** This means that you do what you said you would. You follow through, meet deadlines, and keep your promises. This is not occasionally, but all the time. In the rare instances where you cannot deliver, you take responsibility, explain why, and even apologize when appropriate. 
@@ -169,7 +169,7 @@ The last and most important practice, one of the worst things that can happen in
 If you consistently focus on building trust, you'll be able to do so. But the work doesn't stop there. While it takes time to build trust, it can be destroyed overnight. One violation on your part, can undo months of hard work. So make establishing trust one of your top and ongoing priorities. It should be built on a set of these practices that you use every day.  
 
 
-# [2. Leading Productive Online Meetings](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#2-leading-productive-online-meetings)
+# 2. Leading Productive Online Meetings
 
 ## 2.1 Having productive meetings 
 Let's talk about meetings. It's important to remember that meetings are still part of the bigger picture of how you manage people, projects, and performance. They should align with your philosophy and style of management. Consider meetings as the time and place where you motivate and engage people with opportunities for autonomy, mastery and purpose. 
@@ -181,7 +181,9 @@ Consider these questions to help you get clear about the purpose.
  - Do you need to work together to identify the source of a problem and brainstorm solutions? 
  - Will you be engaging in decision-making, and do you need to gain commitment for a course of action? 
 
-Next, choose the People. Obviously invite the people that need to be there to accomplish the purpose. Not everyone needs to be in every meeting, so be thoughtful about who you invite. In order to prepare, you'll want to think about these issues. 
+Next, choose the People. Obviously invite the people that need to be there to accomplish the purpose. **Not everyone needs to be in every meeting, so be thoughtful about who you invite.**   
+
+In order to prepare, you'll want to think about these issues. 
  - Will the participants know each other? 
  - What are their personalities? 
  - Are they likely to be competitive or collaborative? 
@@ -268,6 +270,74 @@ The responsibility for coming to decisions lies with the leader. :)
  - [Your role in meeting](https://www.linkedin.com/learning/management-foundations-5/your-role-in-meetings?u=2113185)
  - [Common meeting Problems](https://www.linkedin.com/learning/common-meeting-problems/welcome?u=2113185)
  - [Leading Productive Meetings](https://www.linkedin.com/learning/leading-productive-meetings-3/improve-meetings?u=2113185)
+ - [11-strategies-for-shorter-meetings](https://tomlaforce.com/11-strategies-for-shorter-meetings/)
+
+# 3 Managing Your Time and Stress
+
+## 3.1 Delegating responsibilities 
+To be successful as a manager, you must learn the art of delegating. It really is an art because when done right, it requires some thoughtful analysis and intentional choices on your part. 
+Delegation is a very important interaction that lies at the intersection of three things.  
+- The delegator, you. 
+- The delegate, the person you're handing a task to and 
+- the organization that the interaction is housed within. 
+
+Delegation is the process of asking another person to do a task, while still maintaining responsibility for that task. It can range from giving someone a simple everyday task to appointing someone as the leader of a complex project.  
+Appointments can be short-term, from minutes to a couple of weeks or long term, from a few weeks to months. But delegation is not just about handing off tasks. It's actually a great opportunity to further motivate and engage your employees by creating opportunities for their professional development.  
+As the manager, you're in the role of the delegator and you're instrumental in making the process go smoothly. Most people think that there's only one phase. You ask the employee to do a task and they do it. Actually, successful delegation is more complex than that and requires you to be savvy with both project management as well as people skills.  
+There is a **four-phase model of delegation.** The four phases are the **evaluation, handover, support, and debrief.** The phases are linear. Meaning that you need to complete one before you go on to the next.  
+
+**The first phase is called evaluation.** In this phase, you assess aspects of the organization, your workload, and your employees. This will help you determine what can and should be delegated, and to whom various projects should be given. The goal here is to match up your employee's strength and opportunities for growth with the project that will help them further develop. Unfortunately, evaluation is the phase that most managers skip because they feel pressed for time. This can set up a pattern where managers try to do too many things themselves and then when the workload gets to be too much, dump tasks on others at the last minute. This not only affects the success of the tasks being done well but it can also harm the relationship between the manager and employees. So take the time to do this phase because it will you set you and your team up for success.  
+
+**The second phase is called the handover.** In this phase, the focus is to communicate clear expectations about the goals of the tasks, resources that will be provided, and the timeline. You also determine how much autonomy you're going to give them. A crucial part of this phase is determining and communicating how much freedom you're assigning. Eight levels of autonomy cover who gathers the information, who makes the decision and who takes the action. By far and away, the biggest source of problems in delegation is lack of clarity about which level of autonomy is being given.  
+
+Eight levels of Autonomy while delegating:  
+ - **Level 1:** The delegate has no autonomy. Delegate looks into the problem, gathers the information, and gives it to the manager who makes the decision. The manager also takes the action.
+ - **Level 2:** Delegate explores the alternatives available, noting the pros and cons of each option. The delegate presents this analysis to the manager, who decides what to do and takes the action.
+ - **Level 3:** Delegate explores the options and makes a decision, recommending a course of action to the manager. The manager approves the decision and takes the action.
+ - **Level 4:** Delegate explores the options and makes the decision about a course of action, but delays implementation until the manager approves it. At that point the delegate takes the action.
+ - **Level 5:** Delegate informs the manager of his or her plans and can take action unless the manager says not to (The manager is holding veto power).
+ - **Level 6:** Delegate takes action and informs the manager after the fact what was done and how it turned out.
+ - **Level 7:** Delegate takes action and only communicates with the manager if the action was not successful.
+ - **Level 8:** The delegate has complete autonomy in this highest level. Delegate takes action and does not need to communicate anything to the manager.
+
+**The third phase is called support.** In this phase, you deliver any resources or support promised in phase two. This includes granting access to authority, providing resources, and coaching your employee as needed. Delivering what you promised builds trust and respect with your employees. Again, contributes to the successful completion of the task. During the support phase, you also monitor the progress of the employee and the ways you agreed upon during the handover.  
+
+**The final phase in the delegation process is called the debrief.** This phase occurs once the task is completed. Thus, ending the delegation. You and the employee meet to discuss the outcome of the task as well as the process of delegation. You discuss things like what issues arose, lessons learned and ideas for improving for the future.  
+
+As you delegate more proficiently, your team will become more effective and efficient in completing tasks. You also gain the benefit of moving some things off your plate which frees you up to focus time and energy on the projects that require your knowledge and experience. 
+
+## Avoiding micromanagement 
+Micromanagement is what happens when delegation goes badly, and it's usually due to one of three causes. 
+The first cause is an incomplete evaluation. The evaluation phase is the phase that most people skip because they're often delegating under pressure. They're in a hurry to offload something during a stressful time, and that never ends well. 
+The second cause is lack of clarity about the level of autonomy. When an employee feels micromanaged, it's because they thought they were getting a higher level of autonomy than they are. It's the manager's responsibility to make the level clear. When you communicate the level you're giving to the delegate, you eliminate any confusion or mistaken assumptions that either of you may of had. Over time, as employees are successful, you should be granting higher levels of autonomy. This demonstrates that you trust your employees, which will contribute to their motivation and engagement. 
+The third cause of micromanagement is the manager violating the agreed upon level of autonomy. When it's unnecessary, it will feel like micromanagement to the delegate. In other words, the delegate could complete the task successfully, but the manager stepped in. This not only frustrates the delegate but short-changes their opportunity to learn and grow. Sometimes it's not even conscious. The manager truly believes that they're just helping and doesn't see the bigger ramifications of what's happening. Most often, when managers violate the agreed upon level of autonomy, it's related to the manager's discomfort with letting go. While the manager may have had good intentions to honor the level of autonomy, they're not able to control their personal reaction to the letting go process. 
+There are a few common sources that I want to highlight for you. See if any of these are concerns that you struggle with. 
+Number one: Thinking that it's easier or faster do it yourself. This one is tricky because it usually is easier or faster to do it yourself. You may be tempted to take over the task and just get it done, but remember, a large part of being a good manager is about developing your people. You need to give them the opportunity to learn, which takes time. 
+The second cause is worrying that your staff are already overburdened and cannot take on anything more. I've struggled with this myself, but it has helped to remember that employees are most satisfied and motivated when they get opportunities to grow. Talk with them and brainstorm together about how to shift things around, or even eliminate unnecessary tasks to make room for new opportunities. 
+The third reason people struggle with micromanagement is fear of losing control or importance. Delegation involves the loss of direct control and this may cause some managers great discomfort. This is the great thing about delegation. It pushes everyone to grow a little, even you. Remember, you can build in progress checks and coaching discussions to create a safety net that allows you to keep an eye on things. This also allows your employees space to develop new skills. I also find it helpful to remember that there are many paths to an outcome. If you know your employee can produce the work, be more flexible with how they get there. 
+So try these strategies to help you overcome the temptation of micromanagement. If you find that you continue to struggle with letting go, don't hesitate to seek the support of a career coach or a personal counselor. Part of how you're assessed as a manager is how your team grows and develops, so it's an investment in your career, as well. Remember that the growth of your team depends on your ability to let them try.  
+
+## Managing your time 
+Being a manger means you manage a lot of things. We've already covered all the ways you'll manage people and their performance. Now we're going to look at how you manage the business. This includes making decisions, overseeing projects, complying with key policies and regulations, and managing the budget. 
+The first place we need to start is how you manage your time. Being a manager is really a juggling act. You must keep a lot of balls in the air at the same time. Your first priority is having a method for managing your time, so that you can attend to each of the important things you oversee, without exhausting yourself or burning out. 
+I'd like to add the following tips. 
+First, really focus on what is true about you. Managing your time starts with you and how you, and only you, interact with time. This includes when you're at your best for certain types of tasks. For example, my mind is sharpest in the morning from eight to noon. That is the best time for me to do activities that require a lot of thinking, like writing or designing training sessions. 
+Another thing to consider is how long you can focus without a break, and how long of a break you need before you're fresh again. There are no right answers, but there are the answers that are true for you. 
+Second, explore the different components of time management. People often think that time management is just about clocks and calendars, but it's really about managing all the things that take your time. This means that you need to look at managing your email, scheduling your calendar, and even files, papers and notes. 
+Third, creating a system that supports how you really work. Once you know more about yourself, choose or design a system that supports you. The only criteria is that it helps you be more focused and effective. 
+Finally, and perhaps the most importantly, learn how to say no, or at least not now. A big part of managing your time includes protecting it. All the wonderful intentions and systems will go out the door if you continue to pile things on your already full plate. So one of your key strategies is to control the flow of things that you take on. This can be especially challenging if you have a hard time disappointing people. It's called the disease to please, and I suffered from it for years. 
+I kept taking on more and more, getting more stressed out with each commitment. And then I started getting angry and resentful at my job. One day I was being asked, once again, to take on something. I was already super stressed out working evenings and weekends, and still not getting everything done. I said to my boss, "I don't understand how you expect me "to take on this project. "Can't you see how overwhelmed I am?" And she said, "Brit, I'm not putting this project on you. "I came to you and asked if you could take it on. "Your answer could be yes or no. "If you can't do it that's fine, "just tell me and I'll ask someone else." Wow, I was stunned. No was an option? When I thought back on it, I realized that was how I ended up with every project on my overflowing plate. She'd asked, and I had said yes. Needless to say that was a big life lesson. It really showed me how I was not taking responsibility for my own time or priorities. And the ability to say no is part of that. 
+I actually recommend you have go-to phrases that you practice and use. Here are a couple of mine. This buys you time to think. 
+ - "Let me get back to you in 48 hours. 
+ - "I need to assess what's currently on my plate." 
+ - "Let's chat about what task we'll take off my plate "to make room for this one." 
+
+And perhaps the most powerful, "No thank you." 
+I encourage you to create your own list and practice them out loud until you get more comfortable saying them. That way you'll be ready when someone is standing in front of you with a request. Together, all of these strategies will help you be at your best so you can manage others with style and grace.
+
+## References
+
+ - https://medium.com/@tounsi.yassin/the-8-levels-of-autonomy-in-delegation-3813efd2882c
 
 ## Resolving Conflict
 

@@ -7,6 +7,9 @@ Angular 2+ : Angular
 **IDE:** Visual Studio Code. (https://visualstudio.microsoft.com/downloads/)  
 **Stack:** Angular 4  
 
+## Releases: 
+https://angular.io/guide/releases
+
 ## Basics
 
 **File extensions:**  
@@ -176,5 +179,7 @@ Systemjs(reads systemjs.config.ts) -> loads main.ts -> loads AppModule defines i
 
 
 **References:**
-Style-guide: https://angular.io/guide/styleguide  
-good reference: https://www.barbarianmeetscoding.com/blog/categories/angular2-step-by-step/  
+ - Style-guide: https://angular.io/guide/styleguide  
+ - good reference: https://www.barbarianmeetscoding.com/blog/categories/angular2-step-by-step/  
+ - Glossart: https://angular.io/guide/glossary
+ - https://www.interviewbit.com/angular-interview-questions/
