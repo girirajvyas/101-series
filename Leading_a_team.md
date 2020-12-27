@@ -4,18 +4,20 @@ This is a repository of soft skills that you will be required in case of leading
 
 # Contents
 
- - [Specialist vs Team Lead](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#specialist-vs-team-lead)
- - [1. Managing vs Leading](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#1-managing-vs-leading)
-   - [1.1 Knowing when you're managing and when you're leading](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#11-knowing-when-youre-managing-and-when-youre-leading) 
-   - [1.2 Exploring manager roles](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#12-exploring-manager-roles)
-   - [1.3 Understanding management styles](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#13-understanding-management-styles)
-   - [1.4 Choosing the right style](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#14-choosing-the-right-style)
-   - [1.5 Going from peer to manager](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#15-going-from-peer-to-manager)
-   - [1.6 Establishing trust](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#16-establishing-trust)
- - [2. Leading Productive Online Meetings](https://github.com/girirajvyas/101-series/blob/master/Leading_a_team.md#2-leading-productive-online-meetings)
-   - 2.1 Having productive meetings 
-   - 2.2 Some suggestions for common challenges in meetings
- - 3 Managing Your Time and Stress
+ - [Specialist vs Team Lead](#specialist-vs-team-lead)
+ - [1. Managing vs Leading](#1-managing-vs-leading)
+   - [1.1 Knowing when you're managing and when you're leading](#11-knowing-when-youre-managing-and-when-youre-leading) 
+   - [1.2 Exploring manager roles](#12-exploring-manager-roles)
+   - [1.3 Understanding management styles](#13-understanding-management-styles)
+   - [1.4 Choosing the right style](#14-choosing-the-right-style)
+   - [1.5 Going from peer to manager](#15-going-from-peer-to-manager)
+   - [1.6 Establishing trust](#16-establishing-trust)
+ - [2. Leading Productive Online Meetings](#2-leading-productive-online-meetings)
+   - [2.1 Having productive meetings](#21-having-productive-meetings) 
+   - [2.2 Some suggestions for common challenges in meetings](#22-some-suggestions-for-common-challenges-in-meetings)
+ - [3 Managing Your Time and Stress](#3-managing-your-time-and-stress)
+   - []
+   - []
  - 4 Helping Your Team Develop
  - 5 Managing Team Performance Remotely
  - 6 Value of Motivation
@@ -306,7 +308,7 @@ Eight levels of Autonomy while delegating:
 
 As you delegate more proficiently, your team will become more effective and efficient in completing tasks. You also gain the benefit of moving some things off your plate which frees you up to focus time and energy on the projects that require your knowledge and experience. 
 
-## Avoiding micromanagement 
+## 3.2 Avoiding micromanagement 
 Micromanagement is what happens when delegation goes badly, and it's usually due to one of three causes. 
 The first cause is an incomplete evaluation. The evaluation phase is the phase that most people skip because they're often delegating under pressure. They're in a hurry to offload something during a stressful time, and that never ends well. 
 The second cause is lack of clarity about the level of autonomy. When an employee feels micromanaged, it's because they thought they were getting a higher level of autonomy than they are. It's the manager's responsibility to make the level clear. When you communicate the level you're giving to the delegate, you eliminate any confusion or mistaken assumptions that either of you may of had. Over time, as employees are successful, you should be granting higher levels of autonomy. This demonstrates that you trust your employees, which will contribute to their motivation and engagement. 
@@ -317,7 +319,7 @@ The second cause is worrying that your staff are already overburdened and cannot
 The third reason people struggle with micromanagement is fear of losing control or importance. Delegation involves the loss of direct control and this may cause some managers great discomfort. This is the great thing about delegation. It pushes everyone to grow a little, even you. Remember, you can build in progress checks and coaching discussions to create a safety net that allows you to keep an eye on things. This also allows your employees space to develop new skills. I also find it helpful to remember that there are many paths to an outcome. If you know your employee can produce the work, be more flexible with how they get there. 
 So try these strategies to help you overcome the temptation of micromanagement. If you find that you continue to struggle with letting go, don't hesitate to seek the support of a career coach or a personal counselor. Part of how you're assessed as a manager is how your team grows and develops, so it's an investment in your career, as well. Remember that the growth of your team depends on your ability to let them try.  
 
-## Managing your time 
+## 3.3 Managing your time 
 Being a manger means you manage a lot of things. We've already covered all the ways you'll manage people and their performance. Now we're going to look at how you manage the business. This includes making decisions, overseeing projects, complying with key policies and regulations, and managing the budget. 
 The first place we need to start is how you manage your time. Being a manager is really a juggling act. You must keep a lot of balls in the air at the same time. Your first priority is having a method for managing your time, so that you can attend to each of the important things you oversee, without exhausting yourself or burning out. 
 I'd like to add the following tips. 
@@ -335,11 +337,60 @@ I actually recommend you have go-to phrases that you practice and use. Here are 
 And perhaps the most powerful, "No thank you." 
 I encourage you to create your own list and practice them out loud until you get more comfortable saying them. That way you'll be ready when someone is standing in front of you with a request. Together, all of these strategies will help you be at your best so you can manage others with style and grace.
 
+## 3.4 Verbal akido technique
+
+In this technique, First "You agree with a statement and its importance" and then "continue with your own opinion on the matter"
+
+| 1. I agree                                | 2. Continue with your Opinion                     |
+| -------------                             |:-------------:                                    |
+| "Yes, I agree with the fact that..."      | "Thats why lets discuss some risks we can have.." |
+| "Yes, Its really important to..."         | "Besides, we had some issues previously.." |
+| "Yes, this matter is important for us..." | "And thats why lets look at pluses and minuses" |
+
+## 3.5 Saying No
+
+ - Listen what the person is trying to say
+ - Give reason (for No)
+ - Summarize and provide final statement
+ - Offer alternative solutions
+
+## 3.6 Case Studies
+
+
 ## References
 
  - https://medium.com/@tounsi.yassin/the-8-levels-of-autonomy-in-delegation-3813efd2882c
+ - [managing-stress-and-avoiding-burnout](https://www.linkedin.com/learning/linkedin-learning-highlights-business-strategy-and-analysis/managing-stress-and-avoiding-burnout?u=2113185)
+ - [Best time management techniques](https://clockify.me/time-management-techniques)
+ - [10 Timeless time management techniques](https://www.thebalancecareers.com/time-management-techniques-2276138)
+ - [How to make stress your friend](https://www.youtube.com/watch?v=RcGyVTAoXEU)
 
-## Resolving Conflict
+# 4. Helping your team develop
+
+
+# 5. Managing Team Performance Remotely
+
+## 5.1 Managing remote employees 
+
+With today's technology, it's likely that you have employees working remotely. Nearly 2/3 of US companies give employees workplace flexibility. This can range from the colleague who works from home a few days per year to the employee who permanently lives and works in another geographic location. You may even lead virtual teams with members spread around the globe. 
+A lot of wonderful tools make this all possible.  
+File sharing and cloud-based tools make it easy for people to work on projects and documents together without being together.  
+E-mail, instant messaging, and video calls have turned our phones and computers into high-powered communication devices that can cross continents and time zones.  
+While all of this leads to enhanced productivity, it can also lead to some challenges for today's manager. Let's explore some methods you can use for maximizing the benefits while mitigating the risks.  
+Set people up for success with the right technology. Remote employees can only be successful if the technology works. You need to outfit your people with the right tools, including internet access, computers or laptops, and software. Make sure that they have what they need and develop a schedule for keeping everything up to date. Measure work by deliverables rather than activities. Since it will be harder for you to observe people working, you need to shift your focus to the results of their efforts. Focus on outcomes or products. This shift should be addressed in your performance management process in terms of how goals are set and how and when you measure success. Focus on communication and inclusion.  
+One of the pitfalls of remote employees is they can miss a lot of the spontaneous communication that occurs when people gather near the copier or coffee machine. Encourage both the local and remote employees to use tools like instant messaging and video calls to include people in the informal exchanges that occur every day. Also, consider how you can include your remote employees in the culture of the organization. Whenever you have something for the local employees, see how you can create a mirror for your remote people. You can certainly include them in onsite trainings and events by making remote viewing possible. But what about the birthday celebration for a colleague? Consider bringing a laptop so they can attend via video. Or what about the family day at the local zoo? Send them tickets to the zoo in their town. Help them create a healthy work-life balance.  
+Research has shown that remote employees tend to put in more hours than their local peers. This is both good and bad news. It means that you don't have to worry about them goofing off, but you do need to worry that they'll overwork, which can lead to burnout. Discuss how they'll monitor their work time, so they don't overdo it. And also have them create a dedicated workspace so they keep work separate from their home life. Our home should be where we go and relax at the end of the workday, not a place that reminds us of work.  
+Let's turn our attention to virtual teams where you have several employees working together from different locations. This is also known as dispersion, and there are actually different types of dispersion. Each type requires different kinds of guidance or support, and some teams are combinations of several types.  
+First, you have people that are geographically dispersed. This can be as close as different buildings on a campus to offices scattered around the world. The amount of distance matters, as farther distances make it impossible to just pop by for a face to face discussion.  
+Second, you have temporally separated teams, meaning that people are in different time zones. This often means that work cannot occur synchronously but is always offset by several hours. This can create challenges, because all communication is mediated through written words like e-mail, losing valuable non-verbal cues.  
+Another level of dispersion is any quality in the configuration. For example, if you have four people in one location working with two people in another. This can start to create a click, if you will, of the people who work near each other, because they share experiences, communication, and even culture. And of course, you have cultural diversity. People from different regions, countries, cultures, and languages may not produce or perceive work in the same ways. The behaviors that indicate trust and respect in one culture can be offensive in another. Add to this the additional barriers of language and then communication mediated through e-mail, and you have a situation that's ripe for misunderstandings and conflict.  
+The solution to all these challenges is communication and training. As a manager, you need to provide tools for communication and even set standards for how and when it should be done. Dispersed teams benefit from training on how to work in a dispersed environment. This should include an opportunity for members to get to know each other and build trust. This goes a long way to mediating conflict when it does arise. Also, consider appointing someone as the facilitator of the group process. This is separate from the task they're accomplishing together. This person would keep an eye on the issues we've discussed, helping the group successfully navigate the challenges.  
+As a manager, be open to learning from your experiences with remote employees and dispersed teams. This will help you adjust over time that will improve the experience for everyone involved. 
+
+
+# Summary 
+
+## 1. Resolving Conflict
 
 How do you feel about conflict? It's interesting, but a lot of people think that conflict is a bad thing. Something to be avoided or deescalated as quickly as possible. But conflict is a natural byproduct of both group development and diversity. Much of conflict is healthy and contributes to the growth of the individual and the organization. As a manager, you'll find that dealing with conflict is a normal part of your responsibilities. One model that's very helpful to know, is Tuckman's five stages of group development. Tuckman did research on groups, and his findings have stood the test of time. This model is still taught in today's business schools. The first stage is called forming. This is the time when the members are introduced to the group, and they get acquainted. The second stage is called storming, because it's when conflict arises. The group is sorting out their differences as they try to organize their goals and ideas. The third stage is called norming, and this is when group cohesion gets established. Members find effective ways to share ideas and suggestions. Performing is the fourth stage, and the group achieves interdependence. Members are self-directed and productive. Groups can hang out in this fourth stage for quite a while, but eventually they move into the last stage, adjourning. This is when the project or group is wrapped up. Members finish up the task, organize reports and documents, and they celebrate their successes. As a manager, you need to expect conflict and be comfortable handling it. The goal is to know the difference between healthy conflict and toxic conflict that can do harm. You can identify toxic conflict by the following, people openly use insulting or demeaning words and actions, like name-calling, shaming and sneering, or people sabotage or undermine the efforts of another, usually behind their back. Both methods are destructive. They not only kill trust, but they also undermine the efforts and goals of the group and organization. You should have a zero-tolerance policy for these kinds of conflict behaviors. However, toxic conflict is rare, and only shows up when people cannot resolve their differences through more open and healthy means. To this end, you want to create an environment where healthy conflict can be embraced. Let's see how Adriana demonstrates the following strategies: - First, she designs regular opportunities where people can have open discussions about issues. Adriana encourages debate by asking for alternative ideas and solutions. She makes the devil's advocate a regular member of her meetings by intentionally exploring the other side of issues and she makes it clear that it's okay to disagree with her. - Second, Adriana regularly role models how to have healthy debate, and what respectful disagreement looks like. We don't see many examples of this in our society and you'd be surprised how effective a little modeling can be. - Third, when conflict does arise, Adriana gives it a little space and time to let her team handle it on their own. You want to avoid stepping in too early. As long as you don't see anything toxic, you can afford to see what happens. - Fourth, when people come to Adriana, she supports them in working it out. She empowers them to take responsibility for the situation. She has set the expectation that they need to first attempt to resolve the conflict. And if they come to her, they must share what steps they've already taken. If you need to step in, do so as a coach, using clarity and skill coaching to help the people involved move to resolution. Here's some great questions to ask: - Can you identify what the source of conflict is for you? - What are your needs, concerns and goals in this situation? - Are there any hidden agendas, vested interests or emotional attachments at play? - How would you summarize the other person's perspective? - Where are your places of agreement? - And can you build on those? And identify some possible solutions that would close the gap between your differences. Remember, the goal is not to prevent conflict, but embrace it to help your group grow and thrive.
 
@@ -352,7 +403,7 @@ How do you feel about conflict? It's interesting, but a lot of people think that
 |  3   | Norming    | Team members begin to act like a team and establish a collective identity. |
 |  4   | Forming    | Team typically exhibits team harmony, high productivity, an ability to manage team conflict, adaptability, and successful development of both individuals and the collective team.|
 
-## Critical Thinking
+## 2. Critical Thinking
 
 **Summary from critical thinking e-learning**  
 
@@ -363,8 +414,13 @@ How do you feel about conflict? It's interesting, but a lot of people think that
 |  3   | 80/20 rule| Also known as the Pareto principle, this rule suggests that 80% of the effects of an issue come from 20% of the issue’s causes.|
 |  4   | root cause| The earliest underlying factor contributing to a problem|
 
-## References:
+> 1. Paretos's Principle: 80% of results come from 20% of tasks
+> 2. Parkinson's Law: time to completion compresses with time allocated.
+> **Output of using both:** Prioritize high impact tasks. Give yourself ultra-strict deadlines to force focus and flow
 
- - Management Foundations - https://www.linkedin.com/learning/management-foundations-5/the-task-and-people-balance?u=2113185
- - Building Your Team - https://www.linkedin.com/learning/building-your-team/forming-stage?u=2113185
- - Critical Thinking - https://www.linkedin.com/learning/critical-thinking/welcome-to-critical-thinking?u=2113185
+
+## 3. References:
+
+ - [Management Foundations](https://www.linkedin.com/learning/management-foundations-5/the-task-and-people-balance?u=2113185)
+ - [Building Your Team](https://www.linkedin.com/learning/building-your-team/forming-stage?u=2113185)
+ - [Critical Thinking](https://www.linkedin.com/learning/critical-thinking/welcome-to-critical-thinking?u=2113185)

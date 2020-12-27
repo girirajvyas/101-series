@@ -174,3 +174,9 @@ We suggest that you begin by typing:
 - https://jekyllrb.com/docs/step-by-step/01-setup/
 - https://docs.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll
 - https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser
+
+**Consolidate Multiple projects in 1 repo**
+ - https://stackoverflow.com/questions/14679614/whats-the-best-practice-for-putting-multiple-projects-in-a-git-repository
+ - https://stackoverflow.com/questions/5514739/best-practice-for-git-repositories-with-multiple-projects-in-traditional-n-tier?rq=1
+ - https://github.community/t/create-folder-for-multiple-repos/2087
+ - https://github.community/t/how-to-move-multiple-repositories-into-one/2382

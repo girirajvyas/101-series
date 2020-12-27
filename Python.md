@@ -219,3 +219,6 @@ print("go here on break")
 String and collections: 
 String str immutable sequence of unicode codepoints
 
+# Resources:
+ - https://github.com/vinta/awesome-python
+ 
