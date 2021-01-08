@@ -85,6 +85,7 @@
  - https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design
  - https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
  - https://dzone.com/articles/the-solid-principles-in-real-life
+ - https://chanakaudaya.github.io/solution-architecture-patterns/
  
 **Resume in PPT:**  
  - https://www.youtube.com/watch?v=ptWGKQi4Umk
