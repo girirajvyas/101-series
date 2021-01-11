@@ -257,7 +257,7 @@ The seven Lean principles are:
  - `Deliver as fast as possible`: To make the delivery of software products swift, the software team should meet deadlines to deliver each component on the right time.
  - `Build quality in`: To develop quality software products, quality assurance should be done at every step throughout the process and every aspect of the process should be made efficient.
 
-## 2.1 SAFe (uses both agile and lean principles)
+## 2.2 SAFe (uses both agile and lean principles)
 
 [Wiki](https://en.wikipedia.org/wiki/Scaled_agile_framework): The Scaled Agile Framework (SAFe) is a set of organization and workflow patterns intended to guide enterprises in scaling lean and agile practi
 ces.  
@@ -283,7 +283,7 @@ According to its authors, SAFe is based upon ten underlying concepts, which are 
  - Decentralize decision-making
  - Organize around value
 
-[Ceremonies]()
+[Ceremonies](https://github.com/girirajvyas/101-series/blob/master/resources/images/sdlc/SAFe_Ceremonies.PNG)
 
 **Ceremonies**  
  - https://www.scaledagileframework.com/program-increment/
