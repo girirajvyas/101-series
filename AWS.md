@@ -2025,15 +2025,42 @@ Quiz
  - Improves users experience
  - 216 Points of Presence globally (edge locations)
  - DDoS protection (because worldwide), integration with Shield, AWS Web Application Firewall
+ - https://aws.amazon.com/cloudfront/featuresp
 
 **CloudFront Origins**  
- - S2 bucket:
+ - From S3 bucket:
    - For distributing files and caching them at the edge
    - Enhanced security with CloudFront Origin Access Identity (OAI)
    - CloudFront can be used as an ingrass (to upload files to S3)
- - Custom Origin (HTTP):
+ - From Custom Origin (HTTP):
    - Application Load balancer
    - EC2 Instance
    - S3 website (must first enable the bucket as a static S3 webisite)
    - Any Http backend you want
- 
+
+**CloudFront vs S3 Cross region Replication**  
+ - CloudFront:
+   - GlobalEdge network
+   - Files are cached for a TTL (may be a day)
+   - Great for static content that muste be available everywhere
+ - S3 Cross Region Replication
+   - Must be setup for each region you want replication to happen
+   - Files are updated in near real-time
+   - Read only
+   - Great for dynamic content that needs to be available at low-latency in few regions
+
+**hands on**  
+ - Create S3 bucket without bucket policies to expose publicly
+ - Cloudfront -> Create Distribution -> Web distribution -> Get started
+
+## 11.4 S3 Transfer acceleration
+
+ - Increase transfer speed by transferring file onto an AWS edge location which will forward the data to the S3 bucket in the target region
+ - Tool: https://s3-accelerate-speedtest.s3-accelerate.amazonaws.com/en/accelerate-speed-compaison.html
+
+## 11.5 AWS Global Accelerator**
+
+ - Improve global application availability and performance using the aws global network
+ - Leverage the AWS internal network to optimize the route to your application (60% improvement)
+
+
