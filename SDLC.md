@@ -283,7 +283,7 @@ According to its authors, SAFe is based upon ten underlying concepts, which are 
  - Decentralize decision-making
  - Organize around value
 
-[Ceremonies](https://github.com/girirajvyas/101-series/blob/master/resources/images/sdlc/SAFe_Ceremonies.PNG)
+![Ceremonies](https://github.com/girirajvyas/101-series/blob/master/resources/images/sdlc/SAFe_Ceremonies.PNG SAFe ceremonies)
 
 **Ceremonies**  
  - https://www.scaledagileframework.com/program-increment/
