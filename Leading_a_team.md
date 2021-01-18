@@ -24,21 +24,24 @@ This is a repository of soft skills that you will be required in case of leading
  - [4. Helping Your Team Develop](#4-helping-your-team-develop)
  - [5. Managing Team Performance Remotely](#5-managing-team-performance-remotely)
    - [Managing Remote Employees](#51-managing-remote-employees)
- - [6 Value of Motivation](#)
-   - [6.1 How to access that all are motivated within team](#)
-   - [6.2 What will you do to identify motivation gaps?](#)
-   - [6.3 Monitor Motivation level and compensate if any issues?](#)
- - [7 Effective Conflict Resolution](#)
-   - [7.1. Resolving Conflict]()
-   - [7.2 Behaviours in Conflict]()
-     - [7.2.1 Obvious Aggressive]()
-     - [7.2.2 Hidden Aggressive]()
- - [8. Critical Thinking](#8-summary)
-   - [8.1 Definition ]()
-   - [8.2 Critical thinkers can]()
-   - [8.3 What impacts our ability to think critically]()
-   - [8.4 Origin of our thinking]()
-   - [8.5 What is a problem and steps in solving it]()
+ - [6 Value of Motivation](#6-value-of-motivation)
+   - [6.1 How to access that all are motivated within team](#61-how-to-access-that-all-are-motivated-within-team)
+   - [6.2 What will you do to identify motivation gaps?](#62-what-will-you-do-to-identify-motivation-gaps)
+   - [6.3 Monitor Motivation level and compensate if any issues?](#63-monitor-motivation-level-and-compensate-if-any-issues)
+ - [7 Effective Conflict Resolution](#7-effective-conflict-resolution)
+   - [7.1. Resolving Conflict](#71-resolving-conflict)
+   - [7.2 Behaviours in Conflict](#72-behaviours-in-conflict)
+     - [7.2.1 Obvious Aggressive](#721-obvious-aggressive)
+     - [7.2.2 Hidden Aggressive](#722-hidden-aggressive)
+     - [7.2.3 Obvious Passive](#723-obvious-passive)
+     - [7.2.4 Hidden Passive](#724-hidden-passive)
+ - [8. Critical Thinking](#8-critical-thinking)
+   - [8.1 Definition ](#81-definition)
+   - [8.2 Critical thinkers can..](#82-critical-thinkers-can)
+   - [8.3 What impacts our ability to think critically](#83-what-impacts-our-ability-to-think-critically)
+   - [8.4 Origin of our thinking](#84-origin-of-our-thinking)
+   - [8.5 What is a problem and steps in solving it](#85-what-is-a-problem-and-steps-in-solving-it)
+
 # Specialist vs Team Lead
 
 |Sr. no| Specialist                | Team Lead                                                                                                                                                       |
@@ -516,7 +519,7 @@ Below are the types of behaviours normally exibited in Conflict situation
  - Obvious Passive
  - Hidden Passive
 
-![Image]()
+![Image](https://github.com/girirajvyas/101-series/blob/master/resources/images/soft_skills/types_of_behaviours_in_conflict.PNG)
 
 ### 7.2.1 Obvious Aggressive
  - Non-verbal Signs: 
@@ -670,14 +673,16 @@ Below are the types of behaviours normally exibited in Conflict situation
  - What are the facts and circumstances for this problem?
  - Recognize assumptions
 
-![5 why image]()
-![5 why example]()
-![Power interest grid]()
+![5 why image](https://github.com/girirajvyas/101-series/blob/master/resources/images/soft_skills/5_why_analysis.PNG)
+
+![5 why example](https://github.com/girirajvyas/101-series/blob/master/resources/images/soft_skills/5_why_analysis_example.PNG)
+
+![Power interest grid](https://github.com/girirajvyas/101-series/blob/master/resources/images/soft_skills/power_interest_grid.PNG)
 
 ### 8.5.3. Consider solutions and alternatives
 Recognize alternative perspective , collect and evaluate evidence
 
-![swot analysis]()
+![swot analysis](https://github.com/girirajvyas/101-series/blob/master/resources/images/soft_skills/swot_analysis.PNG)
 
 ### 8.5.4. Choose and implement Solution
  - Draw logical conclusions
