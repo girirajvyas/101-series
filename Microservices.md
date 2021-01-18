@@ -1,8 +1,9 @@
-## Micro-services Architecture
+# Micro-services Architecture
 
+## 1. Defination
 This does not have any standard definition, but have different versions that can be summarized as below:
 
-Version 1: 
+**Definition 1:**  
 Quoting the definition from https://microservices.io/
 "Microservices - also known as the microservice architecture - is an architectural style that structures an application as a collection of services that are:  
  - Highly maintainable and testable
@@ -12,20 +13,20 @@ Quoting the definition from https://microservices.io/
  - Owned by a small team
 The microservice architecture enables the rapid, frequent and reliable delivery of large, complex applications. It also enables an organization to evolve its technology stack."
 
-Version 2:
+**Definition 2:**  
 In short, the microservice architectural style is an approach to developing a single application as a suite of small services, each running in its own process and communicating with lightweight mechanisms, often an HTTP resource API. These services are built around business capabilities and independently deployable by fully automated deployment machinery. There is a bare minimum of centralized management of these services, which may be written in different programming languages and use different data storage technologies.
 -- James Lewis and Martin Fowler (2014)
 
-Version 3: 
+**Definition 3:**  
 "Micro-services are:  
-      - Variant of SOA (Service Oriented Architecture)  
-      - Structures application as a collection of loosely coupled services  
-      - Services are fine-grained and protocols are lightweight  
-      - Single DB per Micro-services (Recommended)  
-      - Easy to develop, deploy, test and enables continous delivery  
-      - It is divided on the basis of domains (Account, Cart..)
+  - Variant of SOA (Service Oriented Architecture)  
+  - Structures application as a collection of loosely coupled services  
+  - Services are fine-grained and protocols are lightweight  
+  - Single DB per Micro-services (Recommended)  
+  - Easy to develop, deploy, test and enables continous delivery  
+  - It is divided on the basis of domains (Account, Cart..)
 
-In summary MSA follows below principles:  
+**In summary MSA follows below principles:**  
 
  - Scalability
  - Availability
@@ -36,35 +37,38 @@ In summary MSA follows below principles:
  - Auto-Provisioning
  - Continuous delivery through DevOps
 
-## Building SaaS Micro-Services
-
-In case you are planning to build a 'Software as a Service' (SaaS) application, You application must adhere to 12 factor apps that outlines and describes them in detail.  
-
-**I. Codebase:** One codebase tracked in revision control, many deploys
-**II. Dependencies:** Explicitly declare and isolate dependencies
-**III. Config:** Store config in the environment
-**IV. Backing services:** Treat backing services as attached resources
-**V. Build, release, run:** Strictly separate build and run stages
-**VI. Processes:** Execute the app as one or more stateless processes
-**VII. Port binding:** Export services via port binding
-**VIII. Concurrency:** Scale out via the process model
-**IX. Disposability:** Maximize robustness with fast startup and graceful shutdown
-**X. Dev/prod parity:** Keep development, staging, and production as similar as possible
-**XI. Logs:** Treat logs as event streams
-**XII. Admin processes:** Run admin/management tasks as one-off processes
-
-**Reference:** https://12factor.net/
-
-## Why
+## Why use Micro-services
 
 Polyglot programming is the practice of writing code in multiple languages to capture additional functionality and efficiency not available in a single language. The use of domain specific languages (DSLs) has become a standard practice for enterprise application development.
 
 
-## How
+## Building SaaS Micro-Services (12 Factor App)
+
+In case you are planning to build a 'Software as a Service' (SaaS) application, Your application must adhere to **[12 factor apps](https://12factor.net/)** that outlines and describes them in detail.  
+
+**I. Codebase:** One codebase tracked in revision control, many deploys  
+**II. Dependencies:** Explicitly declare and isolate dependencies  
+**III. Config:** Store config in the environment  
+**IV. Backing services:** Treat backing services as attached resources  
+**V. Build, release, run:** Strictly separate build and run stages  
+**VI. Processes:** Execute the app as one or more stateless processes  
+**VII. Port binding:** Export services via port binding  
+**VIII. Concurrency:** Scale out via the process model  
+**IX. Disposability:** Maximize robustness with fast startup and graceful shutdown  
+**X. Dev/prod parity:** Keep development, staging, and production as similar as possible  
+**XI. Logs:** Treat logs as event streams  
+**XII. Admin processes:** Run admin/management tasks as one-off processes  
+
+**Reference:** https://12factor.net/
+
+
+
+## How To Implement
 Micro-services can be written in below three frameworks:  
  **A. Spring boot**  
  **B. Play-Framework(written in scala)**  
  **C. Grails**  
+ https://blog.thundra.io/microservices-on-aws-an-in-depth-look
  
  **A. Spring boot**  
  Different dependencies solving similar problem  
@@ -89,9 +93,9 @@ Micro-services can be written in below three frameworks:
  
  
 ## REST API Documentation  
-   **Swagger ( OpenAPI Specification ):** From January 1st 2016 the Swagger Specification has been donated to to the Open API Initiative (OAI) and has been renamed to the OpenAPI Specification. The Open API specification is backed by the likes of Google, Microsft and IBM.
-   **RAML  (RESTful API Modeling Language)**    
-   **API Blue Print**   
+  - **Swagger ( OpenAPI Specification ):** From January 1st 2016 the Swagger Specification has been donated to to the Open API Initiative (OAI) and has been renamed to the OpenAPI Specification. The Open API specification is backed by the likes of Google, Microsft and IBM.
+  - **RAML  (RESTful API Modeling Language)**    
+  - **API Blue Print**   
  
 ## Database:  
  NoSql(Mongo DB)  
@@ -107,7 +111,7 @@ Micro-services can be written in below three frameworks:
  React/Angular  
 
 ## Micro-services with Netflix OSS
-![Microservices_Architecture](https://github.com/girirajvyas/resources/blob/main/Images/Microservices_Architecture.PNG)
+![Microservices_Architecture](https://github.com/girirajvyas/101-series/blob/master/resources/images/microservices/Microservices_Architecture.PNG)
 
 ## Micro-services Testing
  Consider you have Micro-Service Project that is dependent on the local DB for fetching data for few of the services whereas some services also calls other services to get the data.  
@@ -116,9 +120,10 @@ Micro-services can be written in below three frameworks:
  **Other services** - Mock the response via WireMock and validate the tests  
 
  You can find the same demonstrated below. 
-![Microservices_Test](https://github.com/girirajvyas/resources/blob/main/Images/Microservices_Testing.PNG)
+![Microservices_Test](https://github.com/girirajvyas/101-series/blob/master/resources/images/microservices/Microservices_Testing.PNG)
 
-Steps to enable the above testing
+Steps to enable the above testing  
+
 **1. Add dependencies in POM**
 
 ```mvn
@@ -157,14 +162,14 @@ Steps to enable the above testing
 
 ## API Gateway Vs Service Mesh
 
-![Microservices_vs Mesh](https://github.com/girirajvyas/resources/blob/main/Images/API_Gateway_Vs_Service_Mesh.PNG)
+![Microservices_vs Mesh](https://github.com/girirajvyas/101-series/blob/master/resources/images/microservices/API_Gateway_Vs_Service_Mesh.PNG)
  
 
-Micro-services fails because of below points:
-10. 
-9. The Monolith database
-8. The event monolith 
-7. 
+## Micro-services fails because of below points:
+  10. 
+  9. The Monolith database
+  8. The event monolith 
+  7. 
 
 
 
@@ -241,8 +246,9 @@ microservices architecture that makes use of remote procedure calls
             |
 Mongo                    httpsd - > tibco load balancer
 
+# NFRs for Microservices
 
-## Scaling microservices
+## 1. Scaling microservices
 
 To scale microservices we can use scale cube reference.
 
@@ -261,16 +267,15 @@ Wiki: "The scale cube is a technology model that indicates three methods by whic
 For Scaling Database, you use Database Sharding i.e Z-axis
 https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6
 
-## Resilient Microservices
+## 2. Resilient Microservices
 
 https://dzone.com/articles/libraries-for-microservices-development
 
 
-## Performance
-
- - time to respond and load up for a user (ex. withing 2 secs)
+## 3. Performance
+Time to respond and load up for a user (ex. within 2 secs)
  
-How to improve:
+**How to improve:**  
  - Code level: Ensure java best practices
    - Ensure unnecessary objects are not created
    - Ensure correct data structure/algo is used according to the scenarios
@@ -287,7 +292,7 @@ How to improve:
  - Modularity:
    - Make sure you app is modular so that it can be scaled
 
-Best practices:
+**Best practices:**  
  - Define performance requirements defined before dev starts:
     - peak load
     - users
@@ -301,8 +306,7 @@ Best practices:
    - how much time is spent at each microservice
    - how much time it is taking to return data from a database
 
-## Availability
-
+## 4. Availability
 measure of how often the system is providing the availability
 
 Diff availability needs: 
@@ -312,7 +316,7 @@ Diff availability needs:
  - multiple components are deployed and hence no single point of failure
  - reduced bottlenects like single monolith db or application
 
-# Microservices Architectural Patterns
+# Architectural Patterns for Micro-services
 
  - Decomposition Patterns
    - Decompose by business capability 
@@ -339,7 +343,6 @@ Diff availability needs:
    - Blue green deployment
 
 
-
 ## References
 
  - https://martinfowler.com/articles/microservices.html
@@ -353,17 +356,19 @@ Diff availability needs:
  - Sharding: https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6
  - Best: https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a
 
-NFR: https://www.youtube.com/watch?v=R3j0Z1c-0qY&list=PLBBog2r6uMCTB4bYedn-WMW2MoYWk_sgf&index=19
- https://www.springboottutorial.com/availability-non-functional-requirement-in-microservices
+NFR: 
+ - https://www.youtube.com/watch?v=R3j0Z1c-0qY&list=PLBBog2r6uMCTB4bYedn-WMW2MoYWk_sgf&index=19
+ - https://www.springboottutorial.com/availability-non-functional-requirement-in-microservices
  
-Best practices: https://github.com/in28minutes/java-best-practices#should-i-be-an-expert-at-all-design-patterns
-http://progressivecoder.com/spring-cloud-microservices-a-detailed-guide/
-https://www.clariontech.com/blog/5-best-technologies-to-build-microservices-architecture
-https://dzone.com/articles/3-popular-frameworks-to-build-microservices?fromrel=true
-https://medium.com/microservices-architecture/top-10-microservices-framework-for-2020-eefb5e66d1a2#:~:text=Spring%20Boot%20is%20popular%20Java%20framework%20for%20writing%20Microservices.&text=Spring%20Boot%20allow%20large%20scale,well%20as%20large%20scale%20system.
-https://medium.com/hashmapinc/how-i-use-the-twelve-factor-app-methodology-for-building-saas-applications-with-java-scala-4cdb668cc908
-https://dzone.com/articles/design-patterns-for-microservices
-https://www.edureka.co/blog/microservices-design-patterns#Chained
+Best practices: 
+ - https://github.com/in28minutes/java-best-practices#should-i-be-an-expert-at-all-design-patterns
+ - http://progressivecoder.com/spring-cloud-microservices-a-detailed-guide/
+ - https://www.clariontech.com/blog/5-best-technologies-to-build-microservices-architecture
+ - https://dzone.com/articles/3-popular-frameworks-to-build-microservices?fromrel=true
+ - https://medium.com/microservices-architecture/top-10-microservices-framework-for-2020-eefb5e66d1a2#:~:text=Spring%20Boot%20is%20popular%20Java%20framework%20for%20writing%20Microservices.&text=Spring%20Boot%20allow%20large%20scale,well%20as%20large%20scale%20system.
+ - https://medium.com/hashmapinc/how-i-use-the-twelve-factor-app-methodology-for-building-saas-applications-with-java-scala-4cdb668cc908
+ - https://dzone.com/articles/design-patterns-for-microservices
+ - https://www.edureka.co/blog/microservices-design-patterns#Chained
 
 
 

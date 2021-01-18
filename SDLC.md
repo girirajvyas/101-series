@@ -1,4 +1,34 @@
-# Software Development Life Cycle (SDLC)
+# SDLC - Software Development Life Cycle
+
+ - [SDLC Phases]()
+   - [1. Planning]()
+   - [2. Requirement gathering / Feasibility]()
+   - [3. Designing (Optional in case considering 5 phases)]()
+   - [4. Building/Development/Implementation ]()
+   - [5. Testing]()
+   - [6. Deploy ]()
+   - [7. Documenting (Optional in case considering 7 phases)]()
+   - [8. Operations and Maintainance ]()
+ - [SDLC Methodologies]()
+   - [1. Waterfall]()
+   - [2. Agile]()
+     - [Agile Estimation Techniques]()
+   - [3. Iterative]()
+   - [4. Spiral]()
+   - [5. DevOps]()
+   - [6. Others]()
+     - [6.1 Lean (originally used in manufacturing by Toyota)]()
+     - [6.2 SAFe (uses both agile and lean principles)]()
+ - [Choose right model for your project]()
+   - [1. Know them all]()
+   - [2. Assess needs of stakeholders]()
+   - [3. Define the criteria]()
+   - [4. Decide]()
+   - [5. Optimize]()
+   - [6. Summary]()
+
+
+# SDLC Phases
 There are 5, 7 or 8 phases of standard software development, depending upon how you divide the task. We will consider it as an 8 step process.  
 As per wiki "In software engineering, a software development process is the process of dividing software development work into distinct phases to improve design and product management"
 
@@ -67,18 +97,6 @@ Like many business processes, SDLC aims to analyze and improve the process of cr
  - It focuses on getting something workable in front of users as soon as possible and then working on improvements.  
  - Focus is on the interactions between the users and developers, and developers work closely together to reduce feedback loops.
 
-**Use when:**  
- - best choice for customers with uncertain requirements and creative projects.
-
-**Pros:**  
- - Seeks to release software cycles quickly, to respond to a changing market.
- - Due to continous feedback in every iteration, users get to see quick improvements and feels ownership
- - Gained lots of momentum in recent years. Using Agile methodology is often a selling point when hiring staff.
-
-**Cons:**  
- - Produces what the client wants quickly, but if the client doesn’t know what they need, developers waste time.
- - Can also lead to a project going off-track by relying too heavily on customer feedback.
-
 **Values:**  
  - `Individuals and interactions` over processes and tools
  - `Working software` over comprehensive documentation
@@ -103,19 +121,31 @@ Like many business processes, SDLC aims to analyze and improve the process of cr
 It is a set of guidlines, can be implemented via below frameworks  
  - Scrum
  - Kanban
- - Xtreme Programming
- - Lean (it is manufacturing model included in Software industry)
+ - Extreme Programming (XP)
 
-### Agile Estimation Techniques:  
+**Use when:**  
+ - best choice for customers with uncertain requirements and creative projects.
+
+**Pros:**  
+ - Seeks to release software cycles quickly, to respond to a changing market.
+ - Due to continous feedback in every iteration, users get to see quick improvements and feels ownership
+ - Gained lots of momentum in recent years. Using Agile methodology is often a selling point when hiring staff.
+
+**Cons:**  
+ - Produces what the client wants quickly, but if the client doesn’t know what they need, developers waste time.
+ - Can also lead to a project going off-track by relying too heavily on customer feedback.
+
+### 2.1 Agile Estimation Techniques:  
 
  > Estimation is one of the simplest, yet most frightening activities that software professionals face. So much business value depends on it. So much of our reputations ride on it. So much of our angst and failure are caused by it. It is the primary wedge that has been driven between business people and developers. It is the source of nearly all the distrust that rules that relationship.    - Robert C Martin (Uncle Bob)
 
  - **Planning Poker** 
    - All participants use numbered playing cards and estimate the items. 
+   - There are free online tools as well that can be leveraged. 
    - Voting is done anonymous and discussion is raised when there are large differences. 
    - Voting is repeated till the whole team reached consensus about the accurate estimation. 
    - Planning poker works well when you have to estimate a relative small number of items (max 10) in a small team (5-8 people). 
-   - Tip: try to keep the voting between affordable numbers.  Maximize the highest card to 13 points.
+   - Tip: try to keep the voting between affordable numbers.  Maximize the highest card to 13 points in case of 3 week sprint and to 8 in case of 2 weeks sprint.
  - **T-shirt Sizes**
    - This is a perfect technique for estimating a large backlog of relative large items i.e Features
    - Especially when you have several concurrent scrum teams working on the same product. 
@@ -159,6 +189,36 @@ It is a set of guidlines, can be implemented via below frameworks
    - This continues till no team member want to move items and passes their turn. 
    - The ordering protocol is a method of getting fine grained size estimates.
    - Works best with a relative small group of people and a large number of items.
+
+### 2.4 Scrum vs Kanban
+
+|Sr. no| Scrum                                              | Kanban                                            |
+|-----:| -------------                                      |:-------------:                                    |
+|  1   | well defined work; takes limited work              | its dynamic, can take extra work                  |
+|  2   | immutable                                          | mutable                                           |
+|  3   | time over burden                                   | focuses on continuous delivery                    |
+|  4   | Structured and clear with goal                     | not structured but clear with goal                |
+|  5   | Good number of meeting (planning, standup are must)| not a lot meeting (stand-up is not required)      |
+|  6   | intervals ; sprint time                            | no intervals, work can be chosen on a daily basis.|
+|  7   | more process, more overhead                        | less process and less overhead                    |
+|  8   | good for new team and new project                  | for mature team                                   |
+
+## 2.5 Scrum vs Kanban vs XP
+
+| Type | Scrum                                              | Kanban                                            |  XP (Xtreme Programming)  |
+| -----:| ------------- |:-------------:|:-------------:|
+| Basic | Scrum is more suitable for teams who can devote their collective time to a project or product. It brings much more in the way of structure to help teams make major productivity gains through frequent communication and planning while still providing the freedom to decide among themselves how to engineer solutions.| Kanban is a really useful way for teams with a continually changing backlog of items to increase efficiency by limiting the amount of work-in-progress, whilst respecting existing roles and responsibilities.| XP is more towards Engineering process taken into account and incorporated in our process. XP adds another level of sophistication, bringing a strong focus on quality by insisting on a set of core engineering practices which keeps code clean and software stable. |
+| Goal  | Use of cross-functional, self-organized, and empowered teams who divide their work into short, concentrated work cycles called Sprints. |  To alleviate impediments that cause us to take longer to deliver, not remove necessary pieces of the process. | To organize people to produce higher-quality software more productively. |
+| Inception | In the mid 80’s, Hirotaka Takeuchi and Ikujiro Nonaka defined a flexible and all-inclusive product development strategy where the development team works as a unit to reach a common goal. Scrum has increased in popularity and is now the preferred project development methodology for many organizations globally. |  Kanban developed in the 1940s as a sub-component of the Toyota Production System and has its origins in these Lean and Just In Time (JIT) manufacturing processes. | XP has been created in 1996 by Kent Beck during his work on the Chrysler Comprehensive Compensation System (C3) payroll project. |
+| Usage | The Scrum framework can only be used for small projects. However, it can easily be scaled for effective use in large projects. | One of the reasons many groups implement Kanban is to figure out how to deliver more consistently. Kanban, as well as many other methods/processes, is often chosen and implemented by the management or leadership layer and the values and goals are communicated down to developers or other individual contributors. | One of the reasons many groups implement Kanban is to figure out how to deliver more consistently. Kanban, as well as many other methods/processes, is often chosen and implemented by the management or leadership layer and the values and goals are communicated down to developers or other individual contributors.
+| Speciality |  A key strength of Scrum lies in its use of cross-functional, self-organized, and empowered teams who divide their work into short, concentrated work cycles called Sprints. Scrum is one of the most popular Agile methodologies. It is an adaptive, iterative, fast, flexible, and effective methodology designed to deliver significant value quickly and throughout a project. Scrum ensures transparency in communication and creates an environment of collective accountability and continuous progress. | In Kanban the workflow is visualized: work is broken down into small, discrete items and written on a card which is stuck to a board; the board has different columns and as the work progresses through different stages (e.g. ready, in progress, ready for review etc) the card is moved accordingly. In Kanban the number of items that can be in progress at any one time is strictly limited. |  Extreme Programming is successful because it stresses customer satisfaction. Instead of delivering everything you could possibly want on some date far in the future this process delivers the software you need as you need it. Extreme Programming empowers your developers to confidently respond to changing customer requirements, even late in the life cycle.Extreme Programming emphasizes teamwork. Managers, customers, and developers are all equal partners in a collaborative team. |
+| Values | `1. Focus`<br/>`2. Courage`<br/>`3. Openness`<br/>`4. Commitment`<br/>`5. Respect` | `1. Transparency`<br/>`2. Agreement`<br/>`3. Balance`<br/>`4. Respect`<br/>`5. Understanding`<br/>`6. Leadership`<br/>`7. Collaboration`<br/>`8. Customer focus`<br/>`9. Flow` | `1. Communication`<br/>`2. Simplicity`<br/>`3. Feedback`<br/>`4. Courage`<br/>`5. Respect`<br/> |
+| key metrics | Sprint Velocity (2 weeks) | Cycle time. | Iteration time (2 weeks) |
+| Activities | `1. Initiate`<br/>`2. Plan and Estimate`<br/>`3. Implement`<br/>`4. Review and Retrospect`<br/>`5. Release` | `1. To Do`<br/>`2. Development`<br/>`3. Test`<br/>`4. Release`<br/>`5. Done`<br/> | `1. Planning`<br/>`2. Managing`<br/>`3. Designing`<br/>`4. Coding`<br/>`5. Testing` |
+| Accepting Change | Teams should strive to not make changes to the sprint forecast during the sprint. Doing so compromises leanings around estimation. | Change can happen at any time |  A high degree of developer discipline along with continuous customer involvement for the duration of the project.
+| Flow | Regular fixed length sprints. | Continuous flow. | Iteration. |
+| Release | At the end of each sprint if approved by the product owner. | Continuous delivery or at the team's discretion. | At the end of iteration.
+| Practices | 1. Planning<br/>2. Daily Scrum<br/>3. Review and retrospective: Sprint Review and Sprint Retrospective<br/>4. Extension: Backlog refinement and Scrum of Scrums<br/>5. Artifacts: Product Backlog, Management, Sprint Backlog, Product Increment, Extensions (Sprint burn-down chart, Release burn-up chart) | 1. Visualize<br/>2. Limit Work-in-progress<br/>3. Manage Flow<br/>4. Make management policies explicit<br/>5.Improve collaboratively (using models and the scientific method) | **Fine scale feedback:** <br/> 1. Pair Programming <br/> 2. Planning Game <br/> 3. Test Driven Development <br/> **Continuous process:** <br/> 1. Continuous Integration <br/> 2. Design Improvement <br/> 3. Small Releases <br/> 4. Whole Team <br/> **Shared understanding:** <br/> 1. Coding Standards <br/> 2. Collective Code Ownership <br/> 3. Simple Design <br/> 4. System Metaphor <br/> **Programmer welfare:** <br/> 1. Sustainable Pace 
 
 ## 3. Iterative
 **Overview:**  
@@ -228,7 +288,9 @@ It is a set of guidlines, can be implemented via below frameworks
  - Merging two teams into one requires a large-scale mindset and culture change in a company.
  - Considering operations early on in the project often delays the first iteration.
 
-## 2.1 Lean (Sub category of Agile)
+## 6. Others
+
+### 6.1 Lean 
 **Overview:**  
   - founding in lean manufacturing principles
   - The Lean methodology prioritizes moving fast and cutting waste when possible.
@@ -257,7 +319,7 @@ The seven Lean principles are:
  - `Deliver as fast as possible`: To make the delivery of software products swift, the software team should meet deadlines to deliver each component on the right time.
  - `Build quality in`: To develop quality software products, quality assurance should be done at every step throughout the process and every aspect of the process should be made efficient.
 
-## 2.2 SAFe (uses both agile and lean principles)
+### 6.2 SAFe (uses both agile and lean principles)
 
 [Wiki](https://en.wikipedia.org/wiki/Scaled_agile_framework): The Scaled Agile Framework (SAFe) is a set of organization and workflow patterns intended to guide enterprises in scaling lean and agile practi
 ces.  
@@ -265,7 +327,8 @@ SAFe promotes alignment, collaboration, and delivery across large numbers of agi
 Starting at its first release in 2011 already five major versions have been released[10] while the latest edition, version 5.0, was released in January 2020
 
 Also, In case you do not understand anything while doing any of the ceremonies, you could quickly search that in below URL and you will get the
-detailed answer
+detailed answer  
+
 Ask me anything URL: https://www.scaledagileframework.com/glossary/
 
 
@@ -294,16 +357,16 @@ According to its authors, SAFe is based upon ten underlying concepts, which are 
  - https://www.scaledagileframework.com/iteration-retrospective/
 
 **Key Stakeholders**  
-https://www.scaledagileframework.com/agile-teams/
-https://www.scaledagileframework.com/product-owner/
-https://www.scaledagileframework.com/scrum-master/
+ - https://www.scaledagileframework.com/agile-teams/
+ - https://www.scaledagileframework.com/product-owner/
+ - https://www.scaledagileframework.com/scrum-master/
 
-**Key work items**  
-https://www.scaledagileframework.com/epic/
-https://www.scaledagileframework.com/features-and-capabilities/
-https://www.scaledagileframework.com/story/
+**Key work items(Epic -> feature -> Story -> Task):**  
+ - https://www.scaledagileframework.com/epic/
+   - https://www.scaledagileframework.com/features-and-capabilities/
+     - https://www.scaledagileframework.com/story/
 
-**Note:**  "Epic has multiple features" and "Features has multiple stories"
+**Note:**  "Epic has multiple features" and "Features has multiple stories" and "Story has Multiple tasks"
 
 **Rally Status and Responsible for Action**  
 
@@ -331,68 +394,40 @@ https://www.scaledagileframework.com/story/
  - https://www.scaledagileframework.com/safe-lean-agile-principles/
  - https://www.guru99.com/scaled-agile-framework.html
 
-## Scrum vs Kanban
-
-|Sr. no| Scrum                                              | Kanban                                            |
-|-----:| -------------                                      |:-------------:                                    |
-|  1   | well defined work; takes limited work              | its dynamic, can take extra work                  |
-|  2   | immutable                                          | mutable                                           |
-|  3   | time over burden                                   | focuses on continuous delivery                    |
-|  4   | Structured and clear with goal                     | not structured but clear with goal                |
-|  5   | Good number of meeting (planning, standup are must)| not a lot meeting (stand-up is not required)      |
-|  6   | intervals ; sprint time                            | no intervals, work can be chosen on a daily basis.|
-|  7   | more process, more overhead                        | less process and less overhead                    |
-|  8   | good for new team and new project                  | for mature team                                   |
-
-## 
-| Type | Scrum                                              | Kanban                                            |  XP (Xtreme Programming)  |
-| -----:| ------------- |:-------------:|:-------------:|
-| Basic | Scrum is more suitable for teams who can devote their collective time to a project or product. It brings much more in the way of structure to help teams make major productivity gains through frequent communication and planning while still providing the freedom to decide among themselves how to engineer solutions.| Kanban is a really useful way for teams with a continually changing backlog of items to increase efficiency by limiting the amount of work-in-progress, whilst respecting existing roles and responsibilities.| XP is more towards Engineering process taken into account and incorporated in our process. XP adds another level of sophistication, bringing a strong focus on quality by insisting on a set of core engineering practices which keeps code clean and software stable. |
-| Goal  | Use of cross-functional, self-organized, and empowered teams who divide their work into short, concentrated work cycles called Sprints. |  To alleviate impediments that cause us to take longer to deliver, not remove necessary pieces of the process. | To organize people to produce higher-quality software more productively. |
-| Inception | In the mid 80’s, Hirotaka Takeuchi and Ikujiro Nonaka defined a flexible and all-inclusive product development strategy where the development team works as a unit to reach a common goal. Scrum has increased in popularity and is now the preferred project development methodology for many organizations globally. |  Kanban developed in the 1940s as a sub-component of the Toyota Production System and has its origins in these Lean and Just In Time (JIT) manufacturing processes. | XP has been created in 1996 by Kent Beck during his work on the Chrysler Comprehensive Compensation System (C3) payroll project. |
-| Usage | The Scrum framework can only be used for small projects. However, it can easily be scaled for effective use in large projects. | One of the reasons many groups implement Kanban is to figure out how to deliver more consistently. Kanban, as well as many other methods/processes, is often chosen and implemented by the management or leadership layer and the values and goals are communicated down to developers or other individual contributors. | One of the reasons many groups implement Kanban is to figure out how to deliver more consistently. Kanban, as well as many other methods/processes, is often chosen and implemented by the management or leadership layer and the values and goals are communicated down to developers or other individual contributors.
-| Speciality |  A key strength of Scrum lies in its use of cross-functional, self-organized, and empowered teams who divide their work into short, concentrated work cycles called Sprints. Scrum is one of the most popular Agile methodologies. It is an adaptive, iterative, fast, flexible, and effective methodology designed to deliver significant value quickly and throughout a project. Scrum ensures transparency in communication and creates an environment of collective accountability and continuous progress. | In Kanban the workflow is visualized: work is broken down into small, discrete items and written on a card which is stuck to a board; the board has different columns and as the work progresses through different stages (e.g. ready, in progress, ready for review etc) the card is moved accordingly. In Kanban the number of items that can be in progress at any one time is strictly limited. |  Extreme Programming is successful because it stresses customer satisfaction. Instead of delivering everything you could possibly want on some date far in the future this process delivers the software you need as you need it. Extreme Programming empowers your developers to confidently respond to changing customer requirements, even late in the life cycle.Extreme Programming emphasizes teamwork. Managers, customers, and developers are all equal partners in a collaborative team. |
-| Values | `1. Focus`<br/>`2. Courage`<br/>`3. Openness`<br/>`4. Commitment`<br/>`5. Respect` | `1. Transparency`<br/>`2. Agreement`<br/>`3. Balance`<br/>`4. Respect`<br/>`5. Understanding`<br/>`6. Leadership`<br/>`7. Collaboration`<br/>`8. Customer focus`<br/>`9. Flow` | `1. Communication`<br/>`2. Simplicity`<br/>`3. Feedback`<br/>`4. Courage`<br/>`5. Respect`<br/> |
-| key metrics | Sprint Velocity (2 weeks) | Cycle time. | Iteration time (2 weeks) |
-| Activities | `1. Initiate`<br/>`2. Plan and Estimate`<br/>`3. Implement`<br/>`4. Review and Retrospect`<br/>`5. Release` | `1. To Do`<br/>`2. Development`<br/>`3. Test`<br/>`4. Release`<br/>`5. Done`<br/> | `1. Planning`<br/>`2. Managing`<br/>`3. Designing`<br/>`4. Coding`<br/>`5. Testing` |
-| Accepting Change | Teams should strive to not make changes to the sprint forecast during the sprint. Doing so compromises leanings around estimation. | Change can happen at any time |  A high degree of developer discipline along with continuous customer involvement for the duration of the project.
-| Flow | Regular fixed length sprints. | Continuous flow. | Iteration. |
-| Release | At the end of each sprint if approved by the product owner. | Continuous delivery or at the team's discretion. | At the end of iteration.
-| Practices | 1. Planning<br/>2. Daily Scrum<br/>3. Review and retrospective: Sprint Review and Sprint Retrospective<br/>4. Extension: Backlog refinement and Scrum of Scrums<br/>5. Artifacts: Product Backlog, Management, Sprint Backlog, Product Increment, Extensions (Sprint burn-down chart, Release burn-up chart) | 1. Visualize<br/>2. Limit Work-in-progress<br/>3. Manage Flow<br/>4. Make management policies explicit<br/>5.Improve collaboratively (using models and the scientific method) | **Fine scale feedback:** <br/> 1. Pair Programming <br/> 2. Planning Game <br/> 3. Test Driven Development <br/> **Continuous process:** <br/> 1. Continuous Integration <br/> 2. Design Improvement <br/> 3. Small Releases <br/> 4. Whole Team <br/> **Shared understanding:** <br/> 1. Coding Standards <br/> 2. Collective Code Ownership <br/> 3. Simple Design <br/> 4. System Metaphor <br/> **Programmer welfare:** <br/> 1. Sustainable Pace 
 
 # Choose right model for your project
 
-## Know them all
+## 1. Know them all
 In order to make a selection, it is very important that you have experience with them or atleast have knowledge about each one of them
 
-## Assess needs of stakeholders
+## 2. Assess needs of stakeholders
 We must study the business domain, stakeholders concerns and requirements, business priorities, our technical capability and ability, and technology constraints to be able to choose the right SDLC against their selection criteria.
 
-## Define the criteria
+## 3. Define the criteria
 Some of the selection criteria or arguments that you may use to select an SDLC are:
 
-Is the SDLC suitable for the size of our team and their skills?
-Is the SDLC suitable for the selected technology we use for implementing the solution?
-Is the SDLC suitable for client and stakeholders concerns and priorities?
-Is the SDLC suitable for the geographical situation (distributed team)?
-Is the SDLC suitable for the size and complexity of our software?
-Is the SDLC suitable for the type of projects we do?
-Is the SDLC suitable for our software engineering capability?
-Is the SDLC suitable for the project risk and quality insurance?
+ - Is the SDLC suitable for the size of our team and their skills?
+ - Is the SDLC suitable for the selected technology we use for implementing the solution?
+ - Is the SDLC suitable for client and stakeholders concerns and priorities?
+ - Is the SDLC suitable for the geographical situation (distributed team)?
+ - Is the SDLC suitable for the size and complexity of our software?
+ - Is the SDLC suitable for the type of projects we do?
+ - Is the SDLC suitable for our software engineering capability?
+ - Is the SDLC suitable for the project risk and quality insurance?
 
-## Decide
+## 4. Decide
 When you define the criteria and the arguments you need to discuss with the team, you will need to have a decision matrix and give each criterion a defined weight and score for each option. After analyzing the results, you should document this decision in the project artifacts and share it with the related stakeholders.
 
-## Optimize
+## 5. Optimize
 You can always optimize the SDLC during the project execution, you may notice upcoming changes do not fit with the selected SDLC, it is okay to align and cope with the changes. You can even make your own SDLC model which optimum for your organization or the type of projects you are involved in.
 
-## Summary
+## 6. Summary
  - The methodology you pick for a particular project will depend on the constraints of the projects and the people involved
  - The methodologies we’ve talked about today are frameworks for doing excellent work. They are only as good as their implementation. If an implementation isn’t working for you, change it.
  - The best teams adopt the spirit of a methodology and implement it in a way that works for them.
  - should have enough experience and familiarity with the SDLCs that will be chosen and understand them correctly
 
-Developing high performing teams with Devops Culture
+Developing high performing teams with Devops Culture  
 
  - Version control everything: source code, documents, scripts, tasks
  - Continous integration and deployments
@@ -426,6 +461,7 @@ Choose SDLC:
 Comparison:  
  - https://www.visual-paradigm.com/scrum/scrum-vs-waterfall-vs-agile-vs-lean-vs-kanban/
  - https://community.simplilearn.com/threads/agile-scrum-vs-kanban-vs-xp-in-a-nutshell-%E2%80%93-paradise-in-worldwide-portfolio-management.22136/
+ - https://www.planview.com/resources/guide/lean-principles-101/agile-and-lean
 
 KPIs:  
  - https://phoenixnap.com/blog/devops-metrics-kpis

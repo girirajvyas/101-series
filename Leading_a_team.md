@@ -15,14 +15,30 @@ This is a repository of soft skills that you will be required in case of leading
  - [2. Leading Productive Online Meetings](#2-leading-productive-online-meetings)
    - [2.1 Having productive meetings](#21-having-productive-meetings) 
    - [2.2 Some suggestions for common challenges in meetings](#22-some-suggestions-for-common-challenges-in-meetings)
- - [3 Managing Your Time and Stress](#3-managing-your-time-and-stress)
-   - []
-   - []
- - 4 Helping Your Team Develop
- - 5 Managing Team Performance Remotely
- - 6 Value of Motivation
- - 7 Effective Conflict Resolution
-
+ - [3. Managing Your Time and Stress](#3-managing-your-time-and-stress)
+   - [3.1 Delegating Responsibilitues](#31-delegating-responsibilities)
+   - [3.2 Avoiding Micromanagement](#32-avoiding-micromanagement)
+   - [3.3 Managing Your Time](33-managing-your-time)
+   - [3.4 Verbal Akido Technique](#34-verbal-akido-technique)
+   - [3.5 Saying No](#35-saying-no)
+ - [4. Helping Your Team Develop](#4-helping-your-team-develop)
+ - [5. Managing Team Performance Remotely](#5-managing-team-performance-remotely)
+   - [Managing Remote Employees](#51-managing-remote-employees)
+ - [6 Value of Motivation](#)
+   - [6.1 How to access that all are motivated within team](#)
+   - [6.2 What will you do to identify motivation gaps?](#)
+   - [6.3 Monitor Motivation level and compensate if any issues?](#)
+ - [7 Effective Conflict Resolution](#)
+   - [7.1. Resolving Conflict]()
+   - [7.2 Behaviours in Conflict]()
+     - [7.2.1 Obvious Aggressive]()
+     - [7.2.2 Hidden Aggressive]()
+ - [8. Critical Thinking](#8-summary)
+   - [8.1 Definition ]()
+   - [8.2 Critical thinkers can]()
+   - [8.3 What impacts our ability to think critically]()
+   - [8.4 Origin of our thinking]()
+   - [8.5 What is a problem and steps in solving it]()
 # Specialist vs Team Lead
 
 |Sr. no| Specialist                | Team Lead                                                                                                                                                       |
@@ -56,7 +72,7 @@ Adriana is managing when she implements a new online event management system and
 Adriana is managing when she delegates various events to her team, rotating roles to build their skills. She's leading when she identifies some high potential employees and creates a cross functional team to assess industry trends and innovate new models. 
 
 ## 1.2 Exploring manager roles
-- As a manager, you'll play a few different roles. 
+As a manager, you'll play a few different roles. 
 1. **Producer**. You must produce the desired results and achieve the organization's goals through projects and tasks. 
 2. **Administrator**. You must administer systems, policies, and procedures so that the organization runs efficiently. 
 3. **Innovator**. In order to enact change that serves the organization's future, you'll need to be creative and innovate new ideas or solutions. 
@@ -68,7 +84,7 @@ Part of being a manager is knowing how to balance these roles, and also when to 
 One is the employees' perspective, which focuses on the experience of the people under the manager. This is the one we're all most familiar with, because we've all been under a manager at some point in our careers.  
 The other is the organization's perspective, which focuses on the effective completion of work that drives the organization's success. Every manager must find a way to live at the intersection of these two different and sometimes competing perspectives. Let's take a deeper look.  
 
-I'm going to start with the organization's perspective, because it really does come first. Everyone is employed to help the organization accomplish its goals. It's also true that the organization's perspective is what has driven management style since the 1800s. The organization's perspective includes several key questions like: 
+I'm going to start with the **organization's perspective**, because it really does come first. Everyone is employed to help the organization accomplish its goals. It's also true that the organization's perspective is what has driven management style since the 1800s. The organization's perspective includes several key questions like: 
  - Are the assigned projects and tasks completed? 
  - Does the work get completed on time and within the allotted budget? 
  - Is the level of work quality sufficient to accomplish the goals? 
@@ -76,7 +92,7 @@ I'm going to start with the organization's perspective, because it really does c
  - Does any innovation occur that enhances the organization's success? 
  - Does the manager hire and develop employees who make positive contributions to the organization over time? 
 
-From this list it becomes obvious that from the organization's perspective, key management skills include: 
+From this list it becomes obvious that from the **organization's perspective**, key management skills include: 
  - project management, 
  - time management, 
  - resource management, 
@@ -85,7 +101,7 @@ From this list it becomes obvious that from the organization's perspective, key 
  - people skills, 
  - performance management. 
 
-Now let's switch to the employees' perspective. The people who report to a manager have several key questions like: 
+Now let's switch to the **employees' perspective.** The people who report to a manager have several key questions like: 
  - Are my tasks and responsibilities made clear? 
  - Am I given the training, guidance, and resources to complete the tasks? 
  - Are my skill sets effectively used, and am I given opportunities to grow? 
@@ -94,7 +110,7 @@ Now let's switch to the employees' perspective. The people who report to a manag
  - Is my worth accurately assessed and valued? 
  - Is there a clear career path for me to advance and grow? 
 
-From the employees' perspective, key management skills include 
+From the **employees' perspective**, key management skills include 
  - communication, 
  - people skills, 
  - performance management, 
@@ -125,10 +141,10 @@ Let me walk through the most common management styles.
 As you review these styles, think about which styles you've experienced as an employee. What impact did the styles have on your productivity, motivation, and loyalty to the organization? Also, consider which style is most like you. We all tend to have a favorite or natural style that we use the most. 
 
 ## 1.4 Choosing the right style
-So which style should you choose? Well, it all depends on your situation. With the exception of the Narcissist, all of the styles can be useful in certain context. While no one individual style is good or bad, a management style can be a good or poor fit for the situation, which determines its effectiveness.  
+**So which style should you choose?**  
+Well, it all depends on your situation. With the exception of the Narcissist, all of the styles can be useful in certain context. While no one individual style is good or bad, a management style can be a good or poor fit for the situation, which determines its effectiveness.  
 Let's start with your natural style of management. Which of the styles is most like you? If you're not sure, ask friends and colleagues for their feedback.  
-It's important to know which style you default to, because that's what you're likely to do under stress. Ultimately, your natural style may be the fit for some of your employees, and they will thrive  
-under you, but if you want your entire team to thrive, you must be willing to become versed in all of the styles. It's the manager's responsibility to be the chameleon and change your style to suit the situation. By picking the best style for the situation, you'll maximize the productivity and engagement of your people. To determine which style to use, first assess the skills and attitudes of each of your employees. Consider their job description and identify the skills or competencies they need to be successful. Rate their current competence in those skills.  
+It's important to know which style you default to, because that's what you're likely to do under stress. Ultimately, your natural style may be the fit for some of your employees, and they will thrive under you, but if you want your entire team to thrive, you must be willing to become versed in all of the styles. It's the manager's responsibility to be the chameleon and change your style to suit the situation. By picking the best style for the situation, you'll maximize the productivity and engagement of your people. To determine which style to use, first assess the skills and attitudes of each of your employees. Consider their job description and identify the skills or competencies they need to be successful. Rate their current competence in those skills.  
 Also look at their attitudes. Are they enthusiastic and motivated? Cautious or nervous, or even disengaged and bored? Look at how they get along as a group. Are they cohesive and friendly? Or is there a lot of tension or conflict? Now, you apply combinations of task direction, relationship-building and decision-making to bring out their best.  
 With employees who are new or unskilled, use high amounts of task direction and relationship-building. This will help them learn what they need to do the job, as well start building a positive connection between you. You'd want to use the director and consultant styles. Over time, as you see evidence that your employees are becoming more skilled and confident, you'll throttle back on task direction as needed and maintain relationship-building. Also now add some decision-making to push their growth and development. Now you don't just hand over a big decision to them, but first start involving them in discussions about decision-making. Begin by seeking their input and sharing what you're doing and why. As they get the hang of it, then you can let them make some low-risk decisions. This is when you might want to use the consensus builder and coach styles. Continue to build relationships as you push their skill development with more and more opportunities for decision-making. Once your employees are highly skilled, you can delegate a lot of things to them. At this point, you're providing very little task-direction and even then, it's rare. You're also giving them a lot of autonomy with decision-making, increasing the complexity of projects to keep them challenged and engaged. You can also dial down the relationship-building, as you should have a strong foundation of trust and respect to stand on. However, be careful that you don't stop relationship-building altogether. Even your top performers still need encouragement and acknowledgement. You'll find that the visionary and delegator styles work well for you here. Especially because as your team grows, you can manage them less and less, allowing you to turn your focus toward leadership and strategy. 
 One more tip, think of yourself as a habit-changer. Seriously, current developments in neuroscience have revealed new and exciting information about how humans form habits. Habits shape everything we do, from our professional to our personal lives. Every day we engage in habit loops, that have been well-built over time, and in many cases are quite grooved, both behaviorally and neurologically. Think about your own day. Habit is behind your commute to the office, how you behave in meetings, and even how you answer your phone. When we do behaviors over and over again, they become grooved, and even develop thicker neurological pathways. In fact, research has shown that it takes about 40 repetitions of a behavior before it becomes grooved as a habit, and 66 shows measurably thickening of the pathways. 
@@ -140,19 +156,20 @@ In this chapter we’ll cover ways you can do that, but first let’s talk about
 If you’re coming in from the outside and haven’t worked alongside your reports it can be easier, because you don’t have a previous relationship with them. You come into a role of authority. While they don’t know you, they also don’t have any preconceived notions about you. However, you’ll have more work to do to help them get to know you and trust you.  
 If you’ve been promoted to supervise your colleagues, they do know you, which means they have some beliefs about who you are and how you’ll manage. These may or may not be accurate, so you may need to overcome not only their assumptions but your own.  
 Whether you’re promoted from within or hired from the outside the following strategy should guide your actions the first few weeks and months.  
-**First, have patience with their nervousness.** You probably remember having a new boss yourself, because we’ve all lived with poor managers people are somewhat anxious to see what kind of manager you’re going to be. This means that they’ll simultaneously be putting on their best behavior for you, and also guarded about what they share with you. They’ll also be trying to bend your ear about their priorities and concerns. That’s good, you want to learn all you can so listen. Just don’t promise anything early on until you’ve really had time to assess everything.  
-**This is a great time to focus on getting to know your people, your second strategy.** One of the best things any new manager can do is to make a point of meeting with each of your people to learn more about them. Here are some key questions to ask: 
- - Tell me about your role 
- - I’d like to hear your perspective on what your priorities are and the challenges that you face. 
- - How I can support you in being successful? 
- - How do you like to be supervised? 
- - What motivates and engages you at work? 
 
-At this point, don’t make any promises about what you will or won’t do. It’s too early to commit to anything. 
-Also, it’s a good idea to meet with your colleagues in other departments, and also those above you. Ask them the first two questions, you’ll learn a lot. This is all part of the **third strategy, which is to take time and gather information.** This is certainly important if you’re new to the organization, but it’s even more so if you’re already working there and here’s why. As you move up you gain a whole new perspective about things. You’ll be privy to all kinds of information that you didn’t have before. You’ll learn more about the people above you, the organization’s goals and challenges, as well as confidential information about the budget and personnel files. Trust me when you move up, it’s a whole new world. So you want to take time to learn all that you can before you make any big decisions, or implement new ideas. While you may be brimming with them, it’s in your best interest to slow down, and thoroughly explore the real lay of the land. 
-**Fourth, be transparent with your values and philosophy.** While you may be waiting to design and implement changes, you can use this time to share your values and management philosophy. This is how you start building trust and establishing your integrity. Your employers are nervous, and they want and need to know who you’re going to be. 
-**Fifth, take time to craft your overall strategy.** Once you’ve gathered information you want to think about how you can address and resolve some of the challenges while also maximizing strengths and opportunities. This all needs to work within the structures and resources you have. By crafting your overall plan it will help you map out how you’ll make changes over time. In addition, it will be the North Star that will guide your decision making in all kinds of situations. 
-**Finally, pace yourself.** I know you may be chomping at the bit to get started, but if you rush too quickly you may accidentally damage the relationships you’re trying to build. Your effectiveness as a manager is completely dependent on your ability to build positive working relationships with people all over your organization. So, focus on that first, and the rest will follow. 
+ - **First, have patience with their nervousness.** You probably remember having a new boss yourself, because we’ve all lived with poor managers people are somewhat anxious to see what kind of manager you’re going to be. This means that they’ll simultaneously be putting on their best behavior for you, and also guarded about what they share with you. They’ll also be trying to bend your ear about their priorities and concerns. That’s good, you want to learn all you can so listen. Just don’t promise anything early on until you’ve really had time to assess everything.  
+ - This is a great time to focus on getting to **know your people, your second strategy.** One of the best things any new manager can do is to make a point of meeting with each of your people to learn more about them. Here are some key questions to ask: 
+   - Tell me about your role 
+   - I’d like to hear your perspective on what your priorities are and the challenges that you face. 
+   - How I can support you in being successful? 
+   - How do you like to be supervised? 
+   - What motivates and engages you at work? 
+ - At this point, don’t make any promises about what you will or won’t do. It’s too early to commit to anything.  
+ - Also, it’s a good idea to meet with your colleagues in other departments, and also those above you. Ask them the first two questions, you’ll learn a lot. This is all part of the **third strategy, which is to take time and gather information.** This is certainly important if you’re new to the organization, but it’s even more so if you’re already working there and here’s why. As you move up you gain a whole new perspective about things. You’ll be privy to all kinds of information that you didn’t have before. You’ll learn more about the people above you, the organization’s goals and challenges, as well as confidential information about the budget and personnel files. Trust me when you move up, it’s a whole new world. So you want to take time to learn all that you can before you make any big decisions, or implement new ideas. While you may be brimming with them, it’s in your best interest to slow down, and thoroughly explore the real lay of the land.  
+ - **Fourth, be transparent with your values and philosophy.** While you may be waiting to design and implement changes, you can use this time to share your values and management philosophy. This is how you start building trust and establishing your integrity. Your employers are nervous, and they want and need to know who you’re going to be.  
+ - **Fifth, take time to craft your overall strategy.** Once you’ve gathered information you want to think about how you can address and resolve some of the challenges while also maximizing strengths and opportunities. This all needs to work within the structures and resources you have. By crafting your overall plan it will help you map out how you’ll make changes over time. In addition, it will be the North Star that will guide your decision making in all kinds of situations.  
+ - **Finally, pace yourself.** I know you may be chomping at the bit to get started, but if you rush too quickly you may accidentally damage the relationships you’re trying to build. Your effectiveness as a manager is completely dependent on your ability to build positive working relationships with people all over your organization. So, focus on that first, and the rest will follow.  
+
 
 ## 1.6 Establishing trust
 Establishing trust is an ongoing practice, something you do every day in your words and actions. As a manager, your success is dependent on creating an environment where you're seen as trustworthy, not only by your directory ports but also your supervisors and your peers. So how do you build trust? Let's look at the key practices. 
@@ -174,42 +191,44 @@ If you consistently focus on building trust, you'll be able to do so. But the wo
 # 2. Leading Productive Online Meetings
 
 ## 2.1 Having productive meetings 
+
 Let's talk about meetings. It's important to remember that meetings are still part of the bigger picture of how you manage people, projects, and performance. They should align with your philosophy and style of management. Consider meetings as the time and place where you motivate and engage people with opportunities for autonomy, mastery and purpose. 
-Let's get into some specific considerations and strategies for leading productive meetings. I call these the Four P's of great meetings. 
-First, get clear about the Purpose. It's important to know what you hope to achieve. By getting clear on the outcome, you'll avoid scheduling unnecessary meetings. Meetings take a lot of forms, from one-on-one discussions to team project meetings, to presentations for large groups of people. The form should always support the purpose. 
-Consider these questions to help you get clear about the purpose. 
- - Is this session interactive, or involve one-way communication? 
- - Is the goal to disseminate information to a group of people, or have people share information with each other? 
- - Do you need to work together to identify the source of a problem and brainstorm solutions? 
- - Will you be engaging in decision-making, and do you need to gain commitment for a course of action? 
+Let's get into some specific considerations and strategies for leading productive meetings.  
+I call these the Four P's of great meetings.  
+ - **First, get clear about the Purpose.** It's important to know what you hope to achieve. By getting clear on the outcome, you'll avoid scheduling unnecessary meetings. Meetings take a lot of forms, from one-on-one discussions to team project meetings, to presentations for large groups of people. The form should always support the purpose. Consider these questions to help you get clear about the purpose. 
+   - Is this session interactive, or involve one-way communication? 
+   - Is the goal to disseminate information to a group of people, or have people share information with each other? 
+   - Do you need to work together to identify the source of a problem and brainstorm solutions? 
+   - Will you be engaging in decision-making, and do you need to gain commitment for a course of action? 
+ - **Second, choose the People.** Obviously invite the people that need to be there to accomplish the purpose. **Not everyone needs to be in every meeting, so be thoughtful about who you invite.** In order to prepare, you'll want to think about these issues.  
+   - Will the participants know each other? 
+   - What are their personalities? 
+   - Are they likely to be competitive or collaborative? 
+   - What will distract them? 
+   - And what will they need to know in order to fully participate? 
+ - **Third, Prepare for the meeting.** As the person who called the meeting, you're responsible for getting everything ready. This includes several pieces. 
+   - Pick the best day, time and place that's most conducive to accomplishing your goal. 
+   - Next, create an agenda. It allows you to outline what the meeting will cover, and how information will flow. It's best to use action verbs, like approve and decide. If people will be leading or speaking at various parts of the agenda, indicate their names, and if you're worried about staying on time, you can even indicate how many minutes are allotted. 
+   - If your meeting is part of an ongoing series, build in a small portion of time to discuss past items and future items, but leave most of the time for the current issues at hand. 
+   - Also, it's a good idea to think about the workload of the meeting. Open the meeting with something light, to get everyone settled and warmed up. Then get into the heavy-lifting of the meeting, where you accomplish the bigger tasks, and end with a wrap-up. 
+   - Distribute your agenda to people in advance, allowing ample time if they need to prepare something. 
+ - The **fourth P is designing a Process for facilitating the meeting.** It should align with the outcome you hope to achieve, and the needs of the participants you've invited. For some of you, your meetings will be governed by Robert's Rules of Order, a formal system often used in government or board meetings. But if not, here's some general guidelines to consider. 
+   - Start and end on time. This shows that you respect the participants. 
+   - Begin the meeting by reviewing the agenda and doing introductions if people don't know each other. 
+   - Use some tools to keep the discussion on track. 
+     - One option is called the bounce-back. If people go off-topic, acknowledge it and say, "That's a great topic for us to address at another time, "but let's refocus on the current discussion."
+     - Some people like to use the parking lot, where you place topics and suggestions that you want to visit later. 
+     - You may also use the talking clock, where you say things like, "Lisa will give her report in the next three minutes," or, "We have two minutes left "to discuss this agenda item." 
+     - If you have decisions to make, consider how you'll vote on them. Will you use majority wins, weighted scoring? And will votes be public or private? The most important part of your role is to foster constructive group participation. 
+   - Consider how you can get people engaged in the process. Ask open-ended questions. 
+   - Throughout the meeting, summarize main points and identify action steps of who will do what, and by when. 
+   - Conclude the meeting by having a closing round for comments and follow up by sending out notes or minutes directly to members or posting online in an appropriate place. 
 
-Next, choose the People. Obviously invite the people that need to be there to accomplish the purpose. **Not everyone needs to be in every meeting, so be thoughtful about who you invite.**   
-
-In order to prepare, you'll want to think about these issues. 
- - Will the participants know each other? 
- - What are their personalities? 
- - Are they likely to be competitive or collaborative? 
- - What will distract them? 
- - And what will they need to know in order to fully participate? 
-
-Third, Prepare for the meeting. As the person who called the meeting, you're responsible for getting everything ready. This includes several pieces. 
-Pick the best day, time and place that's most conducive to accomplishing your goal. 
-Next, create an agenda. It allows you to outline what the meeting will cover, and how information will flow. It's best to use action verbs, like approve and decide. If people will be leading or speaking at various parts of the agenda, indicate their names, and if you're worried about staying on time, you can even indicate how many minutes are allotted. 
-If your meeting is part of an ongoing series, build in a small portion of time to discuss past items and future items, but leave most of the time for the current issues at hand. 
-Also, it's a good idea to think about the workload of the meeting. Open the meeting with something light, to get everyone settled and warmed up. Then get into the heavy-lifting of the meeting, where you accomplish the bigger tasks, and end with a wrap-up. 
-Distribute your agenda to people in advance, allowing ample time if they need to prepare something. 
-The fourth P is designing a Process for facilitating the meeting. It should align with the outcome you hope to achieve, and the needs of the participants you've invited. For some of you, your meetings will be governed by Robert's Rules of Order, a formal system often used in government or board meetings. But if not, here's some general guidelines to consider. 
-Start and end on time. This shows that you respect the participants. 
-Begin the meeting by reviewing the agenda and doing introductions if people don't know each other. 
-Use some tools to keep the discussion on track. One option is called the bounce-back. If people go off-topic, acknowledge it and say, "That's a great topic for us to address at another time, "but let's refocus on the current discussion." Some people like to use the parking lot, where you place topics and suggestions that you want to visit later. You may also use the talking clock, where you say things like, "Lisa will give her report in the next three minutes," or, "We have two minutes left "to discuss this agenda item." If you have decisions to make, consider how you'll vote on them. Will you use majority wins, weighted scoring? And will votes be public or private? The most important part of your role is to foster constructive group participation. 
-Consider how you can get people engaged in the process. Ask open-ended questions. 
-Throughout the meeting, summarize main points and identify action steps of who will do what, and by when. 
-Conclude the meeting by having a closing round for comments and follow up by sending out notes or minutes directly to members or posting online in an appropriate place. 
-Meetings are a necessary part of the work world, but by using the Four P's, Purpose, People, Preparation and Process, you can create meetings that are both productive and engaging.
+*Meetings are a necessary part of the work world, but by using the Four P's, Purpose, People, Preparation and Process, you can create meetings that are both productive and engaging.*
 
 ## 2.2 Some suggestions for common challenges in meetings
 
-**Someone is trying to hijack the meeting:**  
+### Someone is trying to hijack the meeting
  - Have a plan & provide a plan.
  - Move his/her points to the “Parking lot”.
  - Ask specific questions that make it more difficult for the meeting bully to take control.
@@ -219,28 +238,28 @@ Meetings are a necessary part of the work world, but by using the Four P's, Purp
  - Focus discussion on outcomes, rather than endless debates on specific points.
  - Establish and enforce rules of participation, particularly if it’s a regular meeting.
 
-**Someone argues every point:**  
+### Someone argues every point
  - Move this discussion to the “Parking lot”.
  - Refer to the group – “Guys, do you think it’s important to discuss it more deeply or can we leave it at this stage and move to the next point?”
  - Establish and enforce rules of participation, particularly if it is a regular meeting.
 
-**Someone who wants to share too many ideas:**  
+### Someone who wants to share too many ideas
  - Acknowledge it and ask to create a list of ideas that you will review afterwards. 
  - Acknowledge and mention that you are interested in others’ point as well.
 
-**Silence:**  
+### Silence
  - Ask direct questions.
  - Prepare spreadsheet with names.
  - Warn participants that you’d like to hear opinions of all of them.
  - Make some joke – for example “I hope you didn’t fall asleep after my monologue?”
  - “The faster you reply, the faster we’ll finish this meeting 😊”.
 
-**Latecomers:**  
+### Latecomers
  - “Tom, you are 15 minutes late and, as we are finishing on time, it will not possible for me to recap because to do that would mean that everyone would have to spend an extra 15 minutes.  Let me share with you a recording afterwards / MFU”.
  - Don’t start on the hour. 9:15 or 9.45 is perfectly good time as 9:00 or 9:30.
  - https://www.linkedin.com/pulse/20141113133137-223610295-9-ways-to-manage-meeting-latecomers/ 
 
-**Interrupters / Know-it-alls:**  
+### Interrupters / Know-it-alls 
  - “[name], could we just listen to XXX for a moment? Then we’ll listen to your point.”
  - “I appreciate your knowledge / ideas on this point – does anyone else have any relevant experience to share on this issue?” 
  - “[name], I know you are an expert here, so can we see where everyone else is on this topic before coming back to you?”
@@ -248,7 +267,7 @@ Meetings are a necessary part of the work world, but by using the Four P's, Purp
  - “Ok, [name] you have 30 seconds to finish your point, because we have a lot to cover during this meeting.”
  - “We have already spent more time on this topic than agreed and we need to progress to the next point, otherwise we will run out of time.”
 
-**Unprepared participants:**  
+### Unprepared participants  
  - **Preventive steps:**  
    - Send them a clearly written statement about the meeting’s purpose, scope, and deliverable
    - Detailed questions determined agenda topics
@@ -259,7 +278,7 @@ Meetings are a necessary part of the work world, but by using the Four P's, Purp
    - Regularly ask for input and invite questions
    - Make your meeting lively and interactive
 
-**Team is unable to make decisions**
+### Team is unable to make decisions
 `Situation:` Team members struggle to reach consensus and make decisions  
 The responsibility for coming to decisions lies with the leader. :)   
 
@@ -309,32 +328,46 @@ Eight levels of Autonomy while delegating:
 As you delegate more proficiently, your team will become more effective and efficient in completing tasks. You also gain the benefit of moving some things off your plate which frees you up to focus time and energy on the projects that require your knowledge and experience. 
 
 ## 3.2 Avoiding micromanagement 
-Micromanagement is what happens when delegation goes badly, and it's usually due to one of three causes. 
-The first cause is an incomplete evaluation. The evaluation phase is the phase that most people skip because they're often delegating under pressure. They're in a hurry to offload something during a stressful time, and that never ends well. 
-The second cause is lack of clarity about the level of autonomy. When an employee feels micromanaged, it's because they thought they were getting a higher level of autonomy than they are. It's the manager's responsibility to make the level clear. When you communicate the level you're giving to the delegate, you eliminate any confusion or mistaken assumptions that either of you may of had. Over time, as employees are successful, you should be granting higher levels of autonomy. This demonstrates that you trust your employees, which will contribute to their motivation and engagement. 
-The third cause of micromanagement is the manager violating the agreed upon level of autonomy. When it's unnecessary, it will feel like micromanagement to the delegate. In other words, the delegate could complete the task successfully, but the manager stepped in. This not only frustrates the delegate but short-changes their opportunity to learn and grow. Sometimes it's not even conscious. The manager truly believes that they're just helping and doesn't see the bigger ramifications of what's happening. Most often, when managers violate the agreed upon level of autonomy, it's related to the manager's discomfort with letting go. While the manager may have had good intentions to honor the level of autonomy, they're not able to control their personal reaction to the letting go process. 
-There are a few common sources that I want to highlight for you. See if any of these are concerns that you struggle with. 
-Number one: Thinking that it's easier or faster do it yourself. This one is tricky because it usually is easier or faster to do it yourself. You may be tempted to take over the task and just get it done, but remember, a large part of being a good manager is about developing your people. You need to give them the opportunity to learn, which takes time. 
-The second cause is worrying that your staff are already overburdened and cannot take on anything more. I've struggled with this myself, but it has helped to remember that employees are most satisfied and motivated when they get opportunities to grow. Talk with them and brainstorm together about how to shift things around, or even eliminate unnecessary tasks to make room for new opportunities. 
-The third reason people struggle with micromanagement is fear of losing control or importance. Delegation involves the loss of direct control and this may cause some managers great discomfort. This is the great thing about delegation. It pushes everyone to grow a little, even you. Remember, you can build in progress checks and coaching discussions to create a safety net that allows you to keep an eye on things. This also allows your employees space to develop new skills. I also find it helpful to remember that there are many paths to an outcome. If you know your employee can produce the work, be more flexible with how they get there. 
+Micromanagement is what happens when delegation goes badly, and it's usually due to one of **three causes.**  
+
+**The first cause is an incomplete evaluation.** The evaluation phase is the phase that most people skip because they're often delegating under pressure. They're in a hurry to offload something during a stressful time, and that never ends well.  
+
+**The second cause is lack of clarity about the level of autonomy.** When an employee feels micromanaged, it's because they thought they were getting a higher level of autonomy than they are. It's the manager's responsibility to make the level clear. When you communicate the level you're giving to the delegate, you eliminate any confusion or mistaken assumptions that either of you may of had. Over time, as employees are successful, you should be granting higher levels of autonomy. This demonstrates that you trust your employees, which will contribute to their motivation and engagement.  
+
+**The third cause of micromanagement is the manager violating the agreed upon level of autonomy.** When it's unnecessary, it will feel like micromanagement to the delegate. In other words, the delegate could complete the task successfully, but the manager stepped in. This not only frustrates the delegate but short-changes their opportunity to learn and grow. Sometimes it's not even conscious. The manager truly believes that they're just helping and doesn't see the bigger ramifications of what's happening. Most often, when managers violate the agreed upon level of autonomy, it's related to the manager's discomfort with letting go. While the manager may have had good intentions to honor the level of autonomy, they're not able to control their personal reaction to the letting go process.  
+
+**Concerns you face and its solution**  
+
+**First:** Thinking that it's easier or faster do it yourself. This one is tricky because it usually is easier or faster to do it yourself. You may be tempted to take over the task and just get it done, but remember, a large part of being a good manager is about developing your people. You need to give them the opportunity to learn, which takes time.  
+
+**The second cause is worrying that your staff are already overburdened and cannot take on anything more.** I've struggled with this myself, but it has helped to remember that employees are most satisfied and motivated when they get opportunities to grow. Talk with them and brainstorm together about how to shift things around, or even eliminate unnecessary tasks to make room for new opportunities.  
+
+**The third reason people struggle with micromanagement is fear of losing control or importance.** Delegation involves the loss of direct control and this may cause some managers great discomfort. This is the great thing about delegation. It pushes everyone to grow a little, even you. Remember, you can build in progress checks and coaching discussions to create a safety net that allows you to keep an eye on things. This also allows your employees space to develop new skills. I also find it helpful to remember that there are many paths to an outcome. If you know your employee can produce the work, be more flexible with how they get there.  
+
 So try these strategies to help you overcome the temptation of micromanagement. If you find that you continue to struggle with letting go, don't hesitate to seek the support of a career coach or a personal counselor. Part of how you're assessed as a manager is how your team grows and develops, so it's an investment in your career, as well. Remember that the growth of your team depends on your ability to let them try.  
 
 ## 3.3 Managing your time 
-Being a manger means you manage a lot of things. We've already covered all the ways you'll manage people and their performance. Now we're going to look at how you manage the business. This includes making decisions, overseeing projects, complying with key policies and regulations, and managing the budget. 
+Being a manager means you manage a lot of things. We've already covered all the ways you'll manage people and their performance. Now we're going to look at how you manage the business. This includes making decisions, overseeing projects, complying with key policies and regulations, and managing the budget. 
 The first place we need to start is how you manage your time. Being a manager is really a juggling act. You must keep a lot of balls in the air at the same time. Your first priority is having a method for managing your time, so that you can attend to each of the important things you oversee, without exhausting yourself or burning out. 
-I'd like to add the following tips. 
-First, really focus on what is true about you. Managing your time starts with you and how you, and only you, interact with time. This includes when you're at your best for certain types of tasks. For example, my mind is sharpest in the morning from eight to noon. That is the best time for me to do activities that require a lot of thinking, like writing or designing training sessions. 
+I'd like to add the following tips.  
+
+**First, really focus on what is true about you.** Managing your time starts with you and how you, and only you, interact with time. This includes when you're at your best for certain types of tasks. For example, my mind is sharpest in the morning from eight to noon. That is the best time for me to do activities that require a lot of thinking, like writing or designing training sessions.  
 Another thing to consider is how long you can focus without a break, and how long of a break you need before you're fresh again. There are no right answers, but there are the answers that are true for you. 
-Second, explore the different components of time management. People often think that time management is just about clocks and calendars, but it's really about managing all the things that take your time. This means that you need to look at managing your email, scheduling your calendar, and even files, papers and notes. 
-Third, creating a system that supports how you really work. Once you know more about yourself, choose or design a system that supports you. The only criteria is that it helps you be more focused and effective. 
-Finally, and perhaps the most importantly, learn how to say no, or at least not now. A big part of managing your time includes protecting it. All the wonderful intentions and systems will go out the door if you continue to pile things on your already full plate. So one of your key strategies is to control the flow of things that you take on. This can be especially challenging if you have a hard time disappointing people. It's called the disease to please, and I suffered from it for years. 
-I kept taking on more and more, getting more stressed out with each commitment. And then I started getting angry and resentful at my job. One day I was being asked, once again, to take on something. I was already super stressed out working evenings and weekends, and still not getting everything done. I said to my boss, "I don't understand how you expect me "to take on this project. "Can't you see how overwhelmed I am?" And she said, "Brit, I'm not putting this project on you. "I came to you and asked if you could take it on. "Your answer could be yes or no. "If you can't do it that's fine, "just tell me and I'll ask someone else." Wow, I was stunned. No was an option? When I thought back on it, I realized that was how I ended up with every project on my overflowing plate. She'd asked, and I had said yes. Needless to say that was a big life lesson. It really showed me how I was not taking responsibility for my own time or priorities. And the ability to say no is part of that. 
+
+**Second, explore the different components of time management.** People often think that time management is just about clocks and calendars, but it's really about managing all the things that take your time. This means that you need to look at managing your email, scheduling your calendar, and even files, papers and notes.  
+
+**Third, creating a system that supports how you really work.** Once you know more about yourself, choose or design a system that supports you. The only criteria is that it helps you be more focused and effective.  
+
+**Finally, and perhaps the most importantly, learn how to say no, or at least not now.** A big part of managing your time includes protecting it. All the wonderful intentions and systems will go out the door if you continue to pile things on your already full plate.   
+*A good lesson:*  
+So one of your key strategies is to control the flow of things that you take on. This can be especially challenging if you have a hard time disappointing people. `It's called the disease to please`, and I suffered from it for years. I kept taking on more and more, getting more stressed out with each commitment. And then I started getting angry and resentful at my job. One day I was being asked, once again, to take on something. I was already super stressed out working evenings and weekends, and still not getting everything done. I said to my boss, "I don't understand how you expect me "to take on this project. "Can't you see how overwhelmed I am?" And she said, "Brit, I'm not putting this project on you. "I came to you and asked if you could take it on. "Your answer could be yes or no. "If you can't do it that's fine, "just tell me and I'll ask someone else." Wow, I was stunned. No was an option? When I thought back on it, I realized that was how I ended up with every project on my overflowing plate. She'd asked, and I had said yes. Needless to say that was a big life lesson. It really showed me how I was not taking responsibility for my own time or priorities. And the ability to say no is part of that.  
+
 I actually recommend you have go-to phrases that you practice and use. Here are a couple of mine. This buys you time to think. 
  - "Let me get back to you in 48 hours. 
  - "I need to assess what's currently on my plate." 
  - "Let's chat about what task we'll take off my plate "to make room for this one." 
+And perhaps the most powerful, "No thank you."  
 
-And perhaps the most powerful, "No thank you." 
 I encourage you to create your own list and practice them out loud until you get more comfortable saying them. That way you'll be ready when someone is standing in front of you with a request. Together, all of these strategies will help you be at your best so you can manage others with style and grace.
 
 ## 3.4 Verbal akido technique
@@ -387,12 +420,83 @@ Another level of dispersion is any quality in the configuration. For example, if
 The solution to all these challenges is communication and training. As a manager, you need to provide tools for communication and even set standards for how and when it should be done. Dispersed teams benefit from training on how to work in a dispersed environment. This should include an opportunity for members to get to know each other and build trust. This goes a long way to mediating conflict when it does arise. Also, consider appointing someone as the facilitator of the group process. This is separate from the task they're accomplishing together. This person would keep an eye on the issues we've discussed, helping the group successfully navigate the challenges.  
 As a manager, be open to learning from your experiences with remote employees and dispersed teams. This will help you adjust over time that will improve the experience for everyone involved. 
 
+# 6. Value of Motivation  
 
-# Summary 
+## 6.1 How to access that all are motivated within team
 
-## 1. Resolving Conflict
+ - How often does a person takes up a task voluntarily, how much time is needed for him to complete and how is the quality of the solution
+ - Is the person always Late for meetings?
+ - How often does the person come up with the new ideas, joins in on optional meetings
+ - Is he active on meetings? is he able to verbalize his/her interests, needs?
+ - If in online meetings, are they sharing cameras?
+ - Are they willing to join team buildings, online coffe sessions?
 
-How do you feel about conflict? It's interesting, but a lot of people think that conflict is a bad thing. Something to be avoided or deescalated as quickly as possible. But conflict is a natural byproduct of both group development and diversity. Much of conflict is healthy and contributes to the growth of the individual and the organization. As a manager, you'll find that dealing with conflict is a normal part of your responsibilities. One model that's very helpful to know, is Tuckman's five stages of group development. Tuckman did research on groups, and his findings have stood the test of time. This model is still taught in today's business schools. The first stage is called forming. This is the time when the members are introduced to the group, and they get acquainted. The second stage is called storming, because it's when conflict arises. The group is sorting out their differences as they try to organize their goals and ideas. The third stage is called norming, and this is when group cohesion gets established. Members find effective ways to share ideas and suggestions. Performing is the fourth stage, and the group achieves interdependence. Members are self-directed and productive. Groups can hang out in this fourth stage for quite a while, but eventually they move into the last stage, adjourning. This is when the project or group is wrapped up. Members finish up the task, organize reports and documents, and they celebrate their successes. As a manager, you need to expect conflict and be comfortable handling it. The goal is to know the difference between healthy conflict and toxic conflict that can do harm. You can identify toxic conflict by the following, people openly use insulting or demeaning words and actions, like name-calling, shaming and sneering, or people sabotage or undermine the efforts of another, usually behind their back. Both methods are destructive. They not only kill trust, but they also undermine the efforts and goals of the group and organization. You should have a zero-tolerance policy for these kinds of conflict behaviors. However, toxic conflict is rare, and only shows up when people cannot resolve their differences through more open and healthy means. To this end, you want to create an environment where healthy conflict can be embraced. Let's see how Adriana demonstrates the following strategies: - First, she designs regular opportunities where people can have open discussions about issues. Adriana encourages debate by asking for alternative ideas and solutions. She makes the devil's advocate a regular member of her meetings by intentionally exploring the other side of issues and she makes it clear that it's okay to disagree with her. - Second, Adriana regularly role models how to have healthy debate, and what respectful disagreement looks like. We don't see many examples of this in our society and you'd be surprised how effective a little modeling can be. - Third, when conflict does arise, Adriana gives it a little space and time to let her team handle it on their own. You want to avoid stepping in too early. As long as you don't see anything toxic, you can afford to see what happens. - Fourth, when people come to Adriana, she supports them in working it out. She empowers them to take responsibility for the situation. She has set the expectation that they need to first attempt to resolve the conflict. And if they come to her, they must share what steps they've already taken. If you need to step in, do so as a coach, using clarity and skill coaching to help the people involved move to resolution. Here's some great questions to ask: - Can you identify what the source of conflict is for you? - What are your needs, concerns and goals in this situation? - Are there any hidden agendas, vested interests or emotional attachments at play? - How would you summarize the other person's perspective? - Where are your places of agreement? - And can you build on those? And identify some possible solutions that would close the gap between your differences. Remember, the goal is not to prevent conflict, but embrace it to help your group grow and thrive.
+## 6.2 What will you do to identify motivation gaps?
+ - Listen, Observe, Check performance
+ - Check body language
+ - Hold one-on-one meetings regularly, analyze feedback on the person/team
+ - Maintain relationship with RM to talk about the person, RM can give you advice on the aspirations of the person so you can plan the tasks accordingly
+
+## 6.3 Monitor Motivation level and compensate if any issues?
+ - **Monitor**: 
+   - Performance in general
+   - Performance on meetings
+   - Collaboration with other team members
+   - willingness to cooperate
+   - proactive behavior
+ - **Compensate**: 
+   - Ask
+   - Listen
+   - Give Feedback
+   - Try to customize the tasks
+   - Delegate Well
+   - Online Team buildings
+   - Retros with discussing concerns
+ - **Strategical thinking in Team dynamics**:  
+   - Take care of the *opinion leaders* of the team with extra care because they will influence the team atmosphere
+ - Show example, share vision and mission
+ - Negative feedback in private, positive feedback in public
+ - Milestone celebration
+ - Bring in professionally interesting tasks
+ - Get to know the motivation of individuals (build in thei feedback/suggestion)
+
+**Gudelines for 1-on-1 meeting for motivating**
+ - Understand reason for demotivation by asking the right questions
+ - Understand what he does not like and give background info on that
+ - Ask his ideas on how to change the situation
+ - Find out what would make him better
+ - Build rapport: Examples would be  
+   - How was the flat renovation?
+   - how covid affected you
+   - What video games you have played recently
+   - Places you visited recently
+ - Discover the carrer aspirations of the person
+
+ 
+# 7 Effective Conflict Resolution
+
+## 7.1. Resolving Conflict
+
+**How do you feel about conflict?**  
+It's interesting, but a lot of people think that conflict is a bad thing. Something to be avoided or deescalated as quickly as possible. But conflict is a natural byproduct of both group development and diversity. Much of conflict is healthy and contributes to the growth of the individual and the organization.  
+As a manager, you'll find that dealing with conflict is a normal part of your responsibilities. **One model that's very helpful to know, is Tuckman's five stages of group development.** Tuckman did research on groups, and his findings have stood the test of time. This model is still taught in today's business schools.  
+
+**The first stage is called forming.** This is the time when the members are introduced to the group, and they get acquainted.**The second stage is called storming,** because it's when conflict arises. The group is sorting out their differences as they try to organize their goals and ideas.  
+**The third stage is called norming**, and this is when group cohesion gets established. Members find effective ways to share ideas and suggestions.  
+**Performing is the fourth stage**, and the group achieves interdependence. Members are self-directed and productive. Groups can hang out in this fourth stage for quite a while, but eventually they** move into the last stage, adjourning.** This is when the project or group is wrapped up. Members finish up the task, organize reports and documents, and they celebrate their successes.  
+As a manager, you need to expect conflict and be comfortable handling it. The goal is to **know the difference between healthy conflict and toxic conflict that can do harm**.  
+You can identify toxic conflict by the following, people openly use insulting or demeaning words and actions, like name-calling, shaming and sneering, or people sabotage or undermine the efforts of another, usually behind their back. Both methods are destructive. They not only kill trust, but they also undermine the efforts and goals of the group and organization. You should have a zero-tolerance policy for these kinds of conflict behaviors. However, toxic conflict is rare, and only shows up when people cannot resolve their differences through more open and healthy means. To this end, you want to **create an environment where healthy conflict can be embraced**. Let's see how Adriana demonstrates the following strategies: 
+ - **First, she designs regular opportunities where people can have open discussions about issues.** Adriana encourages debate by asking for alternative ideas and solutions. She makes the devil's advocate a regular member of her meetings by intentionally exploring the other side of issues and she makes it clear that it's okay to disagree with her. 
+ - **Second, Adriana regularly role models how to have healthy debate, and what respectful disagreement looks like.** We don't see many examples of this in our society and you'd be surprised how effective a little modeling can be. 
+ - **Third, when conflict does arise, Adriana gives it a little space and time to let her team handle it on their own.** You want to avoid stepping in too early. As long as you don't see anything toxic, you can afford to see what happens. 
+ - **Fourth, when people come to Adriana, she supports them in working it out.** She empowers them to take responsibility for the situation. She has set the expectation that they need to first attempt to resolve the conflict. And if they come to her, they must share what steps they've already taken. If you need to step in, do so as a coach, using clarity and skill coaching to help the people involved move to resolution. Here's some great questions to ask: 
+   - Can you identify what the source of conflict is for you? 
+   - What are your needs, concerns and goals in this situation? 
+   - Are there any hidden agendas, vested interests or emotional attachments at play? 
+   - How would you summarize the other person's perspective? 
+   - Where are your places of agreement? 
+   - And can you build on those?
+ And identify some possible solutions that would close the gap between your differences. Remember, the goal is not to prevent conflict, but embrace it to help your group grow and thrive.
 
 **Tuckman's five stages of group development**  
 
@@ -401,9 +505,193 @@ How do you feel about conflict? It's interesting, but a lot of people think that
 |  1   | Forming    | Forming occurs when members of a team first meet, interact, and build the foundations for their working relationship. |
 |  2   | Storming   | Team members explore the ways in which they conflict and work through smoothing out these differences productively. |
 |  3   | Norming    | Team members begin to act like a team and establish a collective identity. |
-|  4   | Forming    | Team typically exhibits team harmony, high productivity, an ability to manage team conflict, adaptability, and successful development of both individuals and the collective team.|
+|  4   | Performing | Team typically exhibits team harmony, high productivity, an ability to manage team conflict, adaptability, and successful development of both individuals and the collective team.|
+|  5   | Adjourning | Members finish up the task, organize reports and documents, and they celebrate their successes |
 
-## 2. Critical Thinking
+## 7.2 Behaviours in Conflict
+
+Below are the types of behaviours normally exibited in Conflict situation
+ - Obvious Aggressive
+ - Hidden Aggressive
+ - Obvious Passive
+ - Hidden Passive
+
+![Image]()
+
+### 7.2.1 Obvious Aggressive
+ - Non-verbal Signs: 
+   - Active gestures that can even lead to fight
+   - Raised voice
+ - Verbal Signs: 
+   - Insults
+   - Humiliating attacks
+   - Disqualification
+ - Behavioural strategies
+   - Ask open questions to clarify the situation
+   - Ask direct questions:
+     - What are you trying to achieve with this?
+     - What is your aim?
+   - Find something that everyone involved in this type of conflict can agree with
+ - Preventive Steps
+   - Professional and formal conduct at work at all times
+   - Measurable, Clear goals
+   - No Personal statements
+   - Common Values
+   - Clear, Transparent position at all times, no double messaging
+
+### 7.2.2 Hidden Aggressive
+ - Non-verbal Signs: 
+   - Various forms of Judgement and criticism
+   - Inappropriate facial expressions 
+   - Rolling eyes
+ - Verbal Signs: 
+   - Malicious remarks
+   - Negative judgements
+   - Constant nit-picking
+   - Criticism
+ - Behavioural strategies
+   - Respond to attacks as soon as possible
+   - Invite your opponent to speak out and bring him to the goal of your interaction
+   - Keep a professional attitude. Base your responses on professional ethics and standards
+ - Preventive Steps
+   - Constructive reactions to arguments
+   - Counter proposal, argument, questions
+   - Acceptance of thos critical remarks which are true
+
+### 7.2.3 Obvious Passive
+ - Non-verbal Signs:
+  -  Exaggerated Politeness
+ - Verbal Signs: 
+   - Ignoring information aimed at fixing errors
+   - If choses to reply, does it in a very formal way
+ - Behavioural strategies
+   - Stay focused on the goal and build your communication strategy on that goal
+   - Make sure that the correct understanding of the issues discussed is confirmd by all parties
+   - Ask open questions and make sure you know how to deal with possible objections
+ - Preventive steps
+   - Keep professional standards in communication at all times. Always clarify whatever is not clear
+   - Make sure you know and understand the standpoint and interests of all the parties involved in this conflict. Constantly check understanding
+   - Give all the parties involved, the opportunity to express their opinion 
+
+### 7.2.4 Hidden Passive
+ - Non-verbal Signs: 
+   - Practically Absent
+   - If being present, silent
+ - Verbal Signs: 
+   - Actually Absent
+   - Has perfect excuses for absence
+ - Behavioural strategies
+   - Learn to ask open-ended questions:
+     - What is your opinion on this?
+     - How would you solve this problem?
+     - In your view what steps need to be taken?
+   - Express your interest, respect and if necessary sympathy
+     - if possible have an informal meeting
+ - Preventive steps:
+   - Involve him/her in decision making
+   - Invite them to make and implement their own decisions
+   - Develop a positive relationship with them by showing your interest to their life, to what they think, etc
+
+## 7.3 Four step algorithm
+
+ - Clarification
+ - Defining the problem
+ - Receiving "Yes"
+ - Setting the goal
+
+# 8. Critical Thinking
+
+## 8.1 Definition 
+ - Intellectual Capacity for Judgement.
+ - Thinking about one's thinking in a manner designed to organize and clarify, raise the efficiency of, and recognize errors and biases in one's own thinking.
+ - Critical thinking is inward-directed with the intent of maximizing the rationality of the thinker
+ -                     - Gary R Kirby
+
+## 8.2 Critical thinkers can
+ - Distinguish between fact and opinion
+ - Ask questions, make detailed observations, uncover assumptions
+ - Make assertions based on sound logic and solid evidence
+
+## 8.3 What impacts our ability to think critically
+ - Bias
+ - Pride/Prejudice
+ - Emotions/Stress
+ - Over-reliance on Senior
+ - Fear of ambiguity
+ - Logical fallacies/Rationalization
+ - Lack of Skills
+ - Thinking habits
+ - Wishful thinking
+
+## 8.4 Origin of our thinking
+ - Knowledge
+ - Context
+ - Convictions
+ - Authority
+ - Past experience
+
+## 8.5 What is a problem and steps in solving it
+**Problem**  
+ - Something that requires a solution, decision or responses
+ - Absense or lack of something, difference between the current and ideal situations
+ - Typically results in unwanted outcome if not effectively addressed
+ - Has an significant impact
+ - May require a team or collective effort
+**Steps of Critical thinking process**  
+ - 1. Identify and Define the problem
+ - 2. Gather and study information
+ - 3. Consider solutions and alternatives
+ - 4. Choose and implement Solution
+ - 5. Evaluate
+
+> How youframe the problem will impact how you proceed to solve or analyze it
+
+
+### 8.5.1. Identify and Define the problem
+
+ - Best done in dialogue
+ - Investigative process
+ - Precise problem statement needed
+
+**Define the problem:**
+ - Can you elaborate more on this?
+ - What do you mean by that?
+ - Explain what do you think happened/is happening?
+ - What caused this to happen
+ - What does it have in common with other issues? how is it different?
+ - Can you give an example?
+ - What are the exceptions?
+ - What are other perspectives? What other actors think about it?
+ - Why are we having this problem? What caused it?
+ - What exactly are we trying to solve here?
+
+### 8.5.2. Gather and study information
+ - Define the Context
+ - What are the facts and circumstances for this problem?
+ - Recognize assumptions
+
+![5 why image]()
+![5 why example]()
+![Power interest grid]()
+
+### 8.5.3. Consider solutions and alternatives
+Recognize alternative perspective , collect and evaluate evidence
+
+![swot analysis]()
+
+### 8.5.4. Choose and implement Solution
+ - Draw logical conclusions
+ - Weight decision matrix can be used
+
+## # 8.5.5 For every problem statment, Define
+ - Goals
+ - Boundries
+ - Success criteria
+ - Assumptions
+ - Timelines
+ - Stakeholders
+ - Constraints
+
 
 **Summary from critical thinking e-learning**  
 
@@ -416,10 +704,11 @@ How do you feel about conflict? It's interesting, but a lot of people think that
 
 > 1. Paretos's Principle: 80% of results come from 20% of tasks
 > 2. Parkinson's Law: time to completion compresses with time allocated.
+
 > **Output of using both:** Prioritize high impact tasks. Give yourself ultra-strict deadlines to force focus and flow
 
 
-## 3. References:
+# References
 
  - [Management Foundations](https://www.linkedin.com/learning/management-foundations-5/the-task-and-people-balance?u=2113185)
  - [Building Your Team](https://www.linkedin.com/learning/building-your-team/forming-stage?u=2113185)
