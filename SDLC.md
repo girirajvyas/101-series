@@ -137,7 +137,7 @@ It is a set of guidlines, can be implemented via below frameworks
 
 ### 2.1 Agile Estimation Techniques:  
 
- > Estimation is one of the simplest, yet most frightening activities that software professionals face. So much business value depends on it. So much of our reputations ride on it. So much of our angst and failure are caused by it. It is the primary wedge that has been driven between business people and developers. It is the source of nearly all the distrust that rules that relationship.    - Robert C Martin (Uncle Bob)
+ > Estimation is one of the simplest, yet most frightening activities that software professionals face. So much business value depends on it. So much of our reputations ride on it. So much of our angst and failure are caused by it. It is the primary wedge that has been driven between business people and developers. It is the source of nearly all the distrust that rules that relationship.                                                                          - Robert C Martin (Uncle Bob)
 
  - **Planning Poker** 
    - All participants use numbered playing cards and estimate the items. 
@@ -348,6 +348,10 @@ According to its authors, SAFe is based upon ten underlying concepts, which are 
 
 ![Ceremonies](https://github.com/girirajvyas/101-series/blob/master/resources/images/sdlc/SAFe_Ceremonies.PNG "SAFe ceremonies")
 
+**Pros and Cons**  
+ - https://www.linkedin.com/pulse/pros-cons-scaled-agile-framework-safe-series-2-ravulapalli/
+ - https://www.tricentis.com/blog/pros-cons-scaled-agile-framework-safe/
+
 **Ceremonies**  
  - https://www.scaledagileframework.com/program-increment/
  - https://www.scaledagileframework.com/pi-planning/
@@ -444,11 +448,71 @@ Developing high performing teams with Devops Culture
  - Customer centric actions
  - Cross functional teams
 
+# Frequent Questions
+
+**What is Agile?**  
+ - https://github.com/girirajvyas/101-series/blob/master/SDLC.md#2-agile
+
+**What is SAFe?**  
+ - https://github.com/girirajvyas/101-series/blob/master/SDLC.md#62-safe-uses-both-agile-and-lean-principles
+
+**Agile Estimation Techniques?**
+ - https://github.com/girirajvyas/101-series/blob/master/SDLC.md#21-agile-estimation-techniques
+
+**Different Agile Frameworks:**  
+ - [Difference between Scrum and Kanban](https://github.com/girirajvyas/101-series/blob/master/SDLC.md#24-scrum-vs-kanban)
+ - [Difference between Scrum and Kanban and XP](https://github.com/girirajvyas/101-series/blob/master/SDLC.md#25-scrum-vs-kanban-vs-xp)
+
+**Agile Artifacts:**  
+ - [Definition of Ready - DOR](https://www.linkedin.com/pulse/definition-ready-dor-vs-done-dod-brian-will/)
+ - [Definition of Done - DOD](https://www.linkedin.com/pulse/definition-ready-dor-vs-done-dod-brian-will/)
+ - Scrum board is always updated and provides latest status (Rally/Jira)
+ - [Burn down chart](https://www.linkedin.com/pulse/burn-up-vs-down-chart-alaa-el-beheri-cisa-rmp-pmp-bcp-itil/)
+ - [Burn up chart](https://www.linkedin.com/pulse/burn-up-vs-down-chart-alaa-el-beheri-cisa-rmp-pmp-bcp-itil/)
+ - Deliver software at end of each iteration
+
+**Agile Events:**  
+ - Daily scrum - 15 mins
+ - Demo every sprint
+ - Retro every sprint
+ - [Backlog grooming/Backlog Refinement](https://www.scaledagileframework.com/team-backlog/#:~:text=Backlog%20refinement%20looks%20at%20upcoming,examples%20to%20help%20clarify%20stories.)
+   - Break down large user stories into smaller tasks.
+   - Discuss user stories with the team, answer any related questions to smooth out any ambiguity.
+   - Ensure upcoming user stories meet the team's “definition of ready” by adding key contextual information and acceptance criteria
+ - Sprint planning
+   - Sprint Planning focuses on a short time horizon, while Backlog Refinement (can) focus on a longer time horizon: a. Sprint Planning, as the name implies, focuses on work the team intends to do during the upcoming Sprint, that is, the things that will be included in the Sprint Backlog
+   - Pull mechanism for stories instead of assignment
+
+**Agile Product backlog:**  
+ - Feature:
+   - Definition of Done
+   - Estimating using Tee shirt sizing (XS, X, M, L, XL)
+ - Story:
+   - INVEST 
+     - “I” ndependent (of all others)
+     - “N” egotiable (not a specific contract for features)
+     - “V” aluable (or vertical)
+     - “E” stimable (to a good approximation)
+     - “S” mall (so as to fit within an iteration)
+     - “T” estable (in principle, even if there isn’t a test for it yet)
+   - Definition of Ready
+   - Poker planning (For estimating)
+   - Fibonaccci series for measuring i.e 1,2,3,5,8 (13 in case of 3 week sprint)
+
+**Agile Roles:**
+ - Product Owner
+ - Scrum Master
+ - Cross functional Team - Cross functional teams include all competencies and domain knowledge without depending on others outside the team during team's task implementation
+
 # References:
 SDLC:  
  - https://textexpander.com/blog/7-stages-of-the-system-development-life-cycle/
  - https://textexpander.com/blog/sdlc-methodologies/
  - https://phoenixnap.com/blog/software-development-life-cycle
+
+Agile:  
+ - https://www.mendix.com/agile-framework/
+ - https://rubygarage.org/blog/3-reasons-to-estimate-with-story-points
 
 Estimation:  
  - https://technology.amis.nl/2016/03/23/8-agile-estimation-techniques-beyond-planning-poker/

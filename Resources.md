@@ -19,6 +19,7 @@
  - https://google.github.io/eng-practices/review/reviewer/standard.html
  - https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/
  - Antipatterns: https://dzone.com/refcardz/code-review-patterns-and-anti-patterns?chapter=1
+ - https://github.com/verhas/openregime/blob/master/PULLREQUEST.adoc
 
 **Code Review:**
  - https://github.com/ryanmcdermott/code-review-tips
@@ -29,7 +30,6 @@
  - [Google Java guidelines](https://google.github.io/styleguide/javaguide.html)
    - [Google Java Eclipse style guide](https://github.com/google/styleguide/blob/gh-pages/eclipse-java-google-style.xml)
  - [Google Java Code Formatter](https://github.com/google/google-java-format
-
 
 ## Java
  - [Java Trending Projects in Gitub](https://github.com/trending?l=java)
@@ -74,6 +74,7 @@
  - https://microservices.io/patterns/microservices.html
  - https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a
  - https://docs.microsoft.com/en-us/azure/architecture/microservices/design/patterns
+ - http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html
 
 ## Design Patterns
  - https://java-design-patterns.com/patterns/
@@ -142,6 +143,7 @@
  - https://github.com/priteshkumar
  - https://github.com/yangshun
  - UML: https://gist.github.com/rodneyrehm/40e7946c0cff68a31cea
+ - https://github.com/gothinkster/realworld : realworld app in various technologies
 
 **Best Github repositories**  
  - [Public APIs](https://github.com/public-apis/public-apis)
