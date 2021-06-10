@@ -5,15 +5,37 @@
  
  Source: https://aws.amazon.com/what-is-aws/
 
-# Account Setup
+# Table of content
 
-**Create free Account**  
+ - [0. Account Setup](#account-setup)
+   - [0.1 Create free Account](#0.1-create-free-account)
+   - [0.2 Registration page](#0.2-registration-page)
+   - [0.3 Important References](#0.2-registration-page)
+ - [1. Cloud Computing](#1-cloud-computing)
+   - [1.1 Traditional Setup](#11-traditional-setup)
+   - [1.2 Cloud setup](#12-cloud-setup)
+ - [2. Introduction to AWS Services](#2-introduction-to-aws-services)
+   - [2.1 Infrastructure]()
+   - [2.2 AWS account, users and services scope]()
+ - [3. Identity and Access Management (IAM)](#3-identity-and-access-management-iam)
+    - [3.1 Basics](#31-basics)
+    - [3.2 How to land to IAM (Common step across this section)](#32-how-to-land-to-iam-common-step-across-this-section)
+    - [3.3 Add User](#33-add-user)
+    - [3.4 Policies](#34-policies)
+    - [3.4]()
+    - [3.5 Multi Factor Authentication - MFA]()
+    - []()
+
+
+# 0. Account Setup
+
+### 0.1 Create free Account
 Before you start your journey the important step is to create an aws account. This is the prerequisite for learning. You can read a lot of data but without hands on it will all be futile.  
 
 Start by creating a free tier account (Concentrate on free, what is stopping you to create one then ;) )  
 Just to give you a headsup this free comes with a limit depending on the services you use and some of the services are not included in this free tier. Please have a quick glance at https://aws.amazon.com/free so as to make correct decisions.
 
-**Registration page:**  
+### 0.2 Registration page
  - https://aws.amazon.com/free -> Create a free account
  - Basic details (Email/Password/AWS account id)
  - Account type: (Personal/professional)
@@ -38,8 +60,9 @@ Just to give you a headsup this free comes with a limit depending on the service
    - IAM User
    - As we are just starting off we will select root user and sign in with email and password
 
-For understanding of different plans: https://aws.amazon.com/premiumsupport/plans/  
-Different certifications available: https://aws.amazon.com/certification/  
+### 0.3 Important References
+ - **For understanding of different plans:** https://aws.amazon.com/premiumsupport/plans/  
+ - **Different certifications available:** https://aws.amazon.com/certification/  
 
 # 1. Cloud Computing:
 
@@ -95,6 +118,11 @@ Advantages:
 Problems solved
 
 ## 1.2 Types of Cloud Computing:
+ - On demand Self service
+ - Broad network access
+ - Multi-tenancy and resource pooling
+ - Rapid elasticity and scalability
+ - Measured service
 
 # 2. Introduction to AWS Services
 
@@ -133,53 +161,43 @@ Here you can click on different sections to understand in detail about them. A b
  - EBS Elastic block storage
 
 ## 2.3 Different services
-ElasticCache - Redis and memcached  
-ELB - Elastic load balancer  
-VPC - Virtual private cloud  
-Route53 - DNS service  
-S3 - Simple storage service (External storage)  
-Rekognition - Content filter  
-Lambda - Serverless service  
-Kinesis - Click stream analysis  
-EMR - aggregation, processig spark/hadoop cluster  
-GLUE - ETL  
-Redshift - data warehouse can store petabytes  
-Quicksight - Bi analysis  
-Athena - SQL tool for BI  
-Cloudfront - Content delivery network (cache). It does this with the help of edgelocation  
-SNS - Simple notification service - for mobile push notifications/SMS  
-SES - Simple email service - for sending mails/ bulk emails  
-SQS - Simle queue service - messaging queues or chatting app  
-Cloudwatch - Monitor all the services, set alarms  
+ - ElasticCache - Redis and memcached  
+ - ELB - Elastic load balancer  
+ - VPC - Virtual private cloud  
+ - Route53 - DNS service  
+ - S3 - Simple storage service (External storage)  
+ - Rekognition - Content filter  
+ - Lambda - Serverless service  
+ - Kinesis - Click stream analysis  
+ - EMR - aggregation, processig spark/hadoop cluster  
+ - GLUE - ETL  
+ - Redshift - data warehouse can store petabytes  
+ - Quicksight - Bi analysis  
+ - Athena - SQL tool for BI  
+ - Cloudfront - Content delivery network (cache). It does this with the help of edgelocation  
+ - SNS - Simple notification service - for mobile push notifications/SMS  
+ - SES - Simple email service - for sending mails/ bulk emails  
+ - SQS - Simle queue service - messaging queues or chatting app  
+ - Cloudwatch - Monitor all the services, set alarms  
 
 **Expose API**  
-API Gateway - Rest API  
-Cognito - web and mobile user management  
+ - API Gateway - Rest API  
+ - Cognito - web and mobile user management  
 
 **Security**  
-IAM - manage all accesses in AWS  
-KMS - Key management service  
-ACM - Digital certificates for https ssl connection Amazon certification management  
-WAF - Web application firewalls (Prevents ddos, sql injection, cross site scripting, etc)  
-Inspector - PCI DSS compliance, HIPPA compliance: scans for any known vulnerabilities  
+ - IAM - manage all accesses in AWS  
+ - KMS - Key management service  
+ - ACM - Digital certificates for https ssl connection Amazon certification management  
+ - WAF - Web application firewalls (Prevents ddos, sql injection, cross site scripting, etc)  
+ - Inspector - PCI DSS compliance, HIPPA compliance: scans for any known vulnerabilities  
 
 **Development and Devops services**  
-CloudFormation: code your infrastructure/Infrastructure as a code (json/yaml)  
-CodeCommit: Code repo:  (similar to github)  
-CodeBuild: Build tool (ant/maven)  
-CodeDeploy: Deployment  
-CodePipeline: (covers all above 3 service)  
-CodeStar: Project managing/issue tracking/   
-
-**Video converter from 1 s3 to another**  
-option 1:  
- - EC2 instance watches s3 for a new video  
- - downloads - converts it - puts in another s3  
-Option 2:  
- - Lambda  
-  - specify how to converter  
-  - triggered when video uploaded  
-  - scales automatically  
+ - CloudFormation: code your infrastructure/Infrastructure as a code (json/yaml)  
+ - CodeCommit: Code repo:  (similar to github)  
+ - CodeBuild: Build tool (ant/maven)  
+ - CodeDeploy: Deployment  
+ - CodePipeline: (covers all above 3 service)  
+ - CodeStar: Project managing/issue tracking/   
 
 **AWS Networking services**  
 **Developer**  
@@ -218,9 +236,19 @@ Option 2:
     - Network Performance
     - Network Security (Layer 3, Layer 7)
 
+**Video converter from 1 s3 to another**  
+option 1:  
+ - EC2 instance watches s3 for a new video  
+ - downloads - converts it - puts in another s3  
+Option 2:  
+ - Lambda  
+  - specify how to convert  
+  - triggered when video uploaded  
+  - scales automatically  
+
 # 3. Identity and Access Management (IAM)
 
-## 1. Basics
+## 3.1 Basics
 
 **Components:**  
  - It is a global Services
@@ -235,16 +263,16 @@ Option 2:
  - Policies define what users/groups are allowed or in short the permissions of the users
  - [Least privilege access](http://docs.aws.amazon.com/wellarchitected/latest/security-pillar/permissions-management.html): It is recommended to follow this principle that states dont give user more permissions that he needs 
 
-## 2 How to land to IAM (Common step across this section)
+## 3.2 How to land to IAM (Common step across this section)
  - Go to: https://aws.amazon.com -> login with root user
  - You can use the Global search -> Search IAM -> Select
  - Or go to Services -> Security, Identity and compliance -> IAM
  - You will be landed to Dashboard of IAM
  
-### 3 Add User:  
+## 3.3 Add User  
  - Go to Access Management -> Users -> Add Users
 
-Step 1:  
+**Step 1: user details and access type**  
  - User Name: johndoe
  - Access type 
    - Programmatic Access: check
@@ -253,8 +281,9 @@ Step 1:
    - Autogenerate Pasword: unchecked
    - Custom Password: checked
  - Require Password Reset Checkbox: unchecked
-
-Step 2: Set Permissions
+ - ![Add user](https://github.com/girirajvyas/101-series/blob/master/resources/images/aws/IAM/add_user/add_user_step_1.1.PNG)
+ 
+**Step 2: Set Permissions**  
  - Add user to group: In case you donot have groups already, "get started with group"
  - Copy permissions from existing user
  - Add existing policies directly
@@ -264,26 +293,27 @@ get started with group
  - Create policy/ add policies
  - For starter add AdministratorAccess policy to make the users in group as admins
 
-Step 3: Add tags (Optional)
+**Step 3: Add tags (Optional)**  
  - for eg: Department as key and value as Enineering
 
-Step 4: Review whatever you have selected till now
+**Step 4: Review**  
+ - Review whatever you have selected till now
 
-Step 5: Success, you have created an user.
+**Step 5: Success, you have created an user.**  
  - There is a one time option to download the csv that contains every information including how to login and passwords, etc
  - A link will also be generated that can be shared with the user directly.
 
-Detailed steps:
- - Step by step screenshots are available [here]
+**Detailed steps:**  
+ - Step by step screenshots are available [here](https://github.com/girirajvyas/101-series/tree/master/resources/images/aws/IAM/add_user)
 
-Tip:  
+`Tip:` 
 In IAM dashboard, set Sign-in URL for IAM users in the account, you will have a default value by default or you can edit and see if you have an alias available
 
 **How to differentiate a root user or IAM user?**
- - root user: you will directly have name 
- - IAM user: username @ account name
+ - `root user:` you will directly have name 
+ - `IAM user:` username @ account name
 
-## 4. Policies
+## 3.4 Policies
 
  - if you remove the user from the group admins having AdministratorAccess policy, user will not be able to create/read groups and users
  - if you add a readonly policy, your user will only be able to read
@@ -292,7 +322,7 @@ In IAM dashboard, set Sign-in URL for IAM users in the account, you will have a 
  - you can see the policy summary and json tab of policy, where policy summary is human readable and json has the same thing in json format
  - For creating policy: you can do it via visual editor or directly write the json as well
 
-## 5 Multi Factor Authentication - MFA
+## 3.5 Multi Factor Authentication - MFA
 
 **Password policy Basics**  
  - String password means higher security for your account
@@ -340,7 +370,7 @@ In IAM dashboard, set Sign-in URL for IAM users in the account, you will have a 
    - Success
  - Next time you login via your root account you have to provide MFA token along with your password
 
-## 6. Ways to access AWS
+## 3.6 Ways to access AWS
 
  - `AWS Management Console:`(Protected by password + MFA)
  - `AWS Command line Interface (CLI):` protected by access keys
@@ -353,10 +383,10 @@ Acess keys:
  - `Access Key Id` which is used like a username but it is not the same
  - `Secret Access Key` which is used like a password but it is not the same.
 
-### 6.1 AWS console
+### 3.6.1 AWS console
  - All the hands on we dod till now is on console
 
-### 6.2 AWS cli on Windows
+### 3.6.2 AWS cli on Windows
 
 **Installation:**  
  - Google -> Download aws cli on windows -> [Link](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html)
@@ -379,7 +409,7 @@ Acess keys:
  - permissions updated via console will reflect in console as well.
  - in case you do not have permissions, there will be a blank response
 
-## 7. IAM Roles for services
+## 3.7 IAM Roles for services
 
 **Basics**  
  - Some AWS services will need to perform actions on your behalf
@@ -409,7 +439,7 @@ IAM roles are a secure way to grant permissions to entities that you trust. Exam
  - We can skip this and do `Next:Review`
  - Provide Role name -> Create Role
 
-## 8. IAM Security Tools
+## 3.8 IAM Security Tools
 
 **Basics**  
  - IAM Credentials Report(account-level)
@@ -429,7 +459,7 @@ Access Advisor
  - Gives you detailed summary of the services used and in turn helps in effectively managing the access
  - Ref: https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_access-advisor.html
 
-## 9. IAM Guidelines and Best Practices
+## 3.9 IAM Guidelines and Best Practices
 
  - Don't use the root account except for AWS account setup
  - One Physical user = One AWS user
@@ -449,7 +479,7 @@ Access Advisor
  - Enable [IAM Access Analyzer](https://console.aws.amazon.com/access-analyzer/home): Enable IAM Access Analyzer to analyze public, cross-account, and cross-organization access.
  - Learn more about all **[security best practices](https://console.aws.amazon.com/access-analyzer/home)**.
 
-## 10. Shared Responsibility Model for IAM
+## 3.10 Shared Responsibility Model for IAM
 
 | AWS                                           | You                           |
 | -------------                                 |:-------------:                      |
@@ -459,7 +489,7 @@ Access Advisor
 |                                               | Use IAM tools to apply appropriate permissions|
 |                                               | Analyze access patterns and review permissions|
 
-## 11. IAM Summary
+## 3.11 IAM Summary
 
  - Users: mapped to physical user, has a password for AWS Console
  - Groups: contains users only
@@ -469,7 +499,7 @@ Access Advisor
  - Access keys: Access AWS using the CLI/SDK
  - Audit: IAM Credential Reports and IAM Access Advisor
 
-## QUIZ
+## 3.12 QUIZ
 
 What is a proper Definition of IAM roles:
  - An IAM entity that defines a set of permissions for making AWS service requests, that will be used by AWS services
@@ -488,7 +518,7 @@ What are IAM Policies?
 
 # Manage Billing
 
-In case you access the billing module from IAM user, you igt get below permissions error  
+In case you access the billing module from IAM user, you might get below permissions error  
 ```cmd
 You Need Permissions
 You don't have permission to access billing information for this account. Contact your AWS administrator if you need help. If you are an AWS administrator, you can provide permissions for your users or groups by making sure that (1) this account allows IAM and federated users to access billing information and (2) you have the required IAM permissions.
@@ -565,6 +595,7 @@ Launch EC2 instance running Linux
           systemctl enable httpd
           echo "<h1>hello world from ${hostname -f} </h1>" > /var/www/html/index.html
         ```
+     - Done
    - Step 4: Add storage: keep default
    - Step 5: Add tags -> you can add name for identification
    - Step 6: Configure security groups
@@ -640,7 +671,7 @@ Launch EC2 instance running Linux
 **SSH on Windows 10**  
 
  - open powershell/cmd -> ssh -> if options comes up, you can continue or else have to use putty
- - [Screenshot]
+ - [Screenshot](https://github.com/girirajvyas/101-series/blob/master/resources/images/aws/IAM/ssh/check_ssh_windows10.PNG)
  - Command to run: ssh -i <path to pem file downloaded> ec2-user@<ip addres of EC2 instance>
  - eg: ssh -i D:\Data\aws\firstEC2instance.pem ec2-user@3.135.188.103
  - ec2-user is the default user that is logged in to the ec2 instances
@@ -1084,7 +1115,7 @@ Which load balancer should you use to handle hundreds of thousands of connection
 **Buckets**  
  - Amazon S3 allows people to store object (files) in "buckets" (directories)
  - Buckets must have a globally unique name (across all regions and all accounts)
- - Bucktes are defined ate the region level
+ - Bucktes are defined at the region level
  - S3 looks like a global service but buckets are created in a region
  - Naming Convention
    - No uppercase
@@ -1277,7 +1308,7 @@ Which load balancer should you use to handle hundreds of thousands of connection
  - S3 standard has 99.99% availability, which means it wil not be available 53 minutes a year
  - `Varies depending on storage class`
 
-** 1. Amazon S3 Standard - General purpose**  
+***1. Amazon S3 Standard - General purpose**  
  - 99.99% availability
  - Used for frequently accessed data
  - low latency and high throughput
@@ -1287,7 +1318,7 @@ Which load balancer should you use to handle hundreds of thousands of connection
    - Mobile and gamin applications
    - content distribution
 
-** 2. Amazon S3 Standard-Infrequent Access (IA)**  
+***2. Amazon S3 Standard-Infrequent Access (IA)**  
  - Suitable for data that is less frequently accessed, but requires rapid access when needed
  - 99.9% Availability
  - Lower cost compared to Amazon S3 standard, but retrieval fee
@@ -1296,7 +1327,7 @@ Which load balancer should you use to handle hundreds of thousands of connection
    - As a data store for disaster recovery
    - backups
 
-** 3. Amazon S3 one Zone-Infrequent Access (IA)**  
+***3. Amazon S3 one Zone-Infrequent Access (IA)**  
  - Same as IA but data is stored in a single Azure
  - 99.5% Availability
  - Low latency and high throughput performance
@@ -1305,7 +1336,7 @@ Which load balancer should you use to handle hundreds of thousands of connection
    - Storing secondary backup copies of on premise data or
    - storing data you can recreate
 
-** 4. Amazon S3 Intelligent tiering**  
+***4. Amazon S3 Intelligent tiering**  
  - 99.9% Availability
  - Same low latency and high throughput performance of S3 Standard
  - Cost optimized by automatically moving objects between two access tiers based on changing access patterns:
@@ -1313,7 +1344,7 @@ Which load balancer should you use to handle hundreds of thousands of connection
    - Infrequent access
  - Resilient against events that impact an entire Availability zone
 
-** 5. Amazon Glacier and Amazon Glacier Deep Archive**  
+***5. Amazon Glacier and Amazon Glacier Deep Archive**  
  - Low cost object storage (in GB/month) meant for archiving/backup
  - Data is retained for the longer term (years)
  - Various retrieval options of time + fees for retrieval
