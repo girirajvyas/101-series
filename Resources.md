@@ -60,7 +60,10 @@
  - https://dzone.com/articles/spring-cloud-stream-with-kafka
  - https://www.baeldung.com/spring-cloud-stream
  - https://www.youtube.com/watch?v=hyJZP-rgooc – edureka
- - https://www.youtube.com/watch?v=dq-ZACSt_gA&list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON&index=3 – Learning journal
+ - https://www.youtube.com/watch?v=dq-ZACSt_gA&list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON&index=3 – 
+ internal working of spring boot: https://gainjavaknowledge.medium.com/how-spring-boot-application-works-internally-dd9bd3ecc487
+ 
+ Learning journal
  - Note: you have to download .tgz files only and then unzip them via 7Zip
 
 ## Maven
@@ -75,6 +78,7 @@
  - https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a
  - https://docs.microsoft.com/en-us/azure/architecture/microservices/design/patterns
  - http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html
+ - Netflix server architecture video https://www.youtube.com/watch?v=tgOugQd-AsQ
 
 ## Design Patterns
  - https://java-design-patterns.com/patterns/
@@ -117,6 +121,8 @@
  - https://github.com/ldfaiztt/algorithms-3
  - https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
 
+## Angular
+ - https://github.com/sudheerj/angular-interview-questions
 
 ## Spring
  - http://forum.spring.io/forum/spring-projects/container/78179-diff-between-resource-autowired-and-required
@@ -173,3 +179,12 @@
 
 Github profiles:
  - https://github.com/iamsmkr
+
+## LINUX
+ - https://www.hostinger.com/tutorials/linux-commands 
+ - https://www.usm.uni-muenchen.de/people/puls/lessons/intro_general/Linux/Linux_for_beginners.pdf 
+
+http://aim42.github.io/ - SAS for Siemens
+
+Java Venkat presentations from conferences:
+ - http://www.agiledeveloper.com/downloads.html
