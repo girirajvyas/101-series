@@ -188,3 +188,7 @@ http://aim42.github.io/ - SAS for Siemens
 
 Java Venkat presentations from conferences:
  - http://www.agiledeveloper.com/downloads.html
+
+## Taking Online Sessions
+ - app.ziteboard.com
+ - https://kahoot.it/
