@@ -120,6 +120,7 @@
  - https://github.com/jearl4/CLRS-Algo
  - https://github.com/ldfaiztt/algorithms-3
  - https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
+ - https://seanprashad.com/leetcode-patterns/
 
 ## Angular
  - https://github.com/sudheerj/angular-interview-questions
@@ -192,3 +193,6 @@ Java Venkat presentations from conferences:
 ## Taking Online Sessions
  - app.ziteboard.com
  - https://kahoot.it/
+
+## Tech leads
+ - https://techleadjournal.dev/

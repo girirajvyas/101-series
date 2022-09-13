@@ -140,6 +140,9 @@ We suggest that you begin by typing:
  - https://unicode-table.com/en/sets/arrow-symbols/ - icons
  - https://www.webfx.com/tools/emoji-cheat-sheet/ -icons
  - https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+ 
+**Flowcharts in MarkDown**
+ - https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
 
 **Adding new Repository via Git Bash (*it is not possible to do it with Egit plugin*):**
  - https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
