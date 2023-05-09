@@ -9,8 +9,12 @@
     - Docker play: In case you want to just learn without installation, follow https://www.docker.com/play-with-docker
 
 ## Dockerfile
-- DockerFile: default file name that `docker build` command will look for while creating an image
+- **Dockerfile:** default file name that `docker build` command will look for while creating an image.
+  - Note that `f` is lower case in `Dockerfile`
 - You will write here, how exactly your image will be built
+- References: https://docs.docker.com/engine/reference/builder/
+
+### Java project with main class example
 
 ```cmd
 # pull JDK 8 from DockerHub
@@ -28,6 +32,40 @@ RUN javac com/epam/jpop/helloworld/Main.java
 # Execute command
 CMD ["java","com.epam.jpop.helloworld.Main"]
 ```
+
+### Java Spring boot project example
+
+```cmd
+# pull JDK 8 from DockerHub
+FROM openjdk:8
+
+# Expose Port
+EXPOSE 9091
+
+# Select the working directory
+WORKDIR /usr/wallet/
+
+# Copy current code in Docker directory
+ADD ./target/wallet-0.0.1-SNAPSHOT.jar wallet-0.0.1-SNAPSHOT.jar 
+
+# Execute command
+CMD ["java","-jar","wallet-0.0.1-SNAPSHOT.jar"]
+
+```
+
+**Spring boot**  
+- If you have set `server.port: 8080`, it means that spring boot application starts the web server that is ready to get accept connections on that port.
+- If you want to change that mapping externally without modifying the application.yaml you can do that by passing the additional parameter:
+	- `java -jar wallet-0.0.1-SNAPSHOT.jar --server.port=8081`
+- This will effectively override the definition in yaml. 
+- There are other ways as well (environment variable for example). Spring boot supports many different ways of configurations and there are ways that take precedence over the configuration specified in yaml. Among them SERVER_PORT environment variable is one exmaple.
+- Ref: https://docs.spring.io/spring-boot/docs/2.1.9.RELEASE/reference/html/boot-features-external-config.html
+
+**Docker**
+- When we run the container with `-p A:B`, This means that it will forward the port A in the host machine to port B inside the container.
+- To set/pass environment variable while running docker pass -e switch:
+	- `docker run -d -e SERVER_PORT=8081 -p 8081:8081 -it wallet`
+
 
 ## Create Image 
 - Command: `docker build -t jpop-docker-example .` (. resembles current directory)  
@@ -122,9 +160,20 @@ docker run -p 8761:8761 -t jpop-service-registry-0.0.1
 ### Publish to Docker Hub
 - docker tag jpop-service-registry-0.0.1:latest girirajvyas/jpop-service-registry-0.0.1:latest (copies image with new tag)  
 
+## Check logs
+ - docker logs --follow <Container ID> (continously tail logs)
+ - docker logs --tail 100 <Container ID> (last 100 lines)
+ - For other: https://docs.docker.com/engine/reference/commandline/logs/
+ 
+
 
 # References
 - https://stackoverflow.com/questions/18093928/what-does-could-not-find-or-load-main-class-mean
 - https://medium.com/@hudsonmendes/docker-spring-boot-choosing-the-base-image-for-java-8-9-microservices-on-linux-and-windows-c459ec0c238
 - https://stackoverflow.com/questions/54954187/docker-images-types-slim-vs-slim-stretch-vs-stretch-vs-alpine
 - [docker in 1 hour](https://www.youtube.com/watch?v=pTFZFxd4hOI)
+
+
+
+https://docs.docker.com/engine/reference/builder/#parser-directives
+https://hub.docker.com/repositories/giririajvyas
