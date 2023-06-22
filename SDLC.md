@@ -26,6 +26,8 @@
    - [4. Decide](#4-decide)
    - [5. Optimize](#5-optimize)
    - [6. Summary](#6-summary)
+ - [Frequent Questions](#frequent-questions)
+ - [References](#references)
 
 
 # SDLC Phases

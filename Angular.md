@@ -5,7 +5,7 @@ Angular 2+ : Angular
 
 ## Pre-requisites
 **IDE:** Visual Studio Code. (https://visualstudio.microsoft.com/downloads/)  
-**Stack:** Angular 4  
+**Stack:** Angular 16  
 
 ## Releases: 
 https://angular.io/guide/releases
@@ -46,13 +46,13 @@ Two-way data Binding: [()] e.g. [(person.name)]
 **Lint:** process of finding issues before compile time only. A code was developed in C named Lint that found issues before compilation only.
 
 ## Installations
-Node  
-npm  
-Angular-cli  
-Update and install  
-npm uninstall -g @angular/cli  
-npm cache verify  
-npm install -g @angular/cli@latest  
+ - Node JS: https://nodejs.org/en/download -> Install -> `node --version`
+ - npm: Installed with Node : `npm --version`
+ - Angular-cli: 
+   - Update and install  
+   - npm uninstall -g @angular/cli  
+   - npm cache verify  
+   - `npm install -g @angular/cli@latest` -> `ng version`
 
 ## Module 1: Scaffolding/starting project  
 You can quick start angular2 project in two ways:
@@ -179,6 +179,7 @@ Systemjs(reads systemjs.config.ts) -> loads main.ts -> loads AppModule defines i
 
 
 **References:**
+ - Starting new?: https://angular.io/tutorial/first-app
  - Style-guide: https://angular.io/guide/styleguide  
  - good reference: https://www.barbarianmeetscoding.com/blog/categories/angular2-step-by-step/  
  - Glossart: https://angular.io/guide/glossary
