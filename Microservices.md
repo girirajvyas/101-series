@@ -24,6 +24,28 @@ This is for some one who might have some knowledge and want to revalidate the th
  - NFRs for Microservices
    - Scaling
 
+## Summary Topics
+Microservices Intro
+ - Monolith vs microservices
+ - 12 factor app
+ - challenges                  
+  - Service discovery          : Spring cloud netflix eureka : https://spring.io/guides/gs/service-registration-and-discovery/
+  - Load balancing             : Spring cloud load balancer
+  - Security                   : Spring cloud API gateway, Spring security
+  - Configuration management   : Spring cloud config server
+  - Logging and debugging      : Spring cloud sleuth and zipkin
+  - Testing                    : Spring cloud contract
+  - Communication              : Kafka, MQs
+  - Data Consistency           : SAGA Patterns
+  - Deployment, Scaling        : Docker, Kubernetes
+ - Typical MSA
+ 
+ - RestFul Services
+ - Representational State Transfer
+ - Building micro-services with spring boot
+ - Testing
+ - Architecture patterns
+
 # Introduction 
 
 ## 1. Overview
@@ -140,8 +162,30 @@ network failures.
   - **API Blue Print**   
 
 ### Database:  
- - NoSql(Mongo DB)  
- - RDBMS(Oracle, SQL Server/Sybase)  
+
+Sure. Here are two separate tables, one focusing on SQL databases and another on NoSQL databases.
+
+**SQL Databases**
+
+| Database | License | Description | Use case | Advantages | Limitations |
+|---|---|---|---|---|---|
+| MySQL | GPL License | Open-source relational database | Web-based applications | Popular, widely used, supports structured data | Scalability issues, may be slower with large data volumes |
+| PostgreSQL | PostgreSQL License | Advanced, open-source object-relational database | Complex queries, heavy transaction load | Extensible, supports large amount of data types | Can be slower than other databases |
+| Oracle Database | Commercial | Multimodel database management system | Large scale enterprise systems | Reliable, robust, supports large databases | Expensive, complex to learn |
+| SQL Server | Commercial | Relational database management system by Microsoft | Large scale enterprise systems | High performance, good support | Licensing costs, requires regular maintenance |
+| MariaDB | GPL License | Open-source fork of MySQL | Web-based applications | High compatibility with MySQL, more advanced features | Can be slower than MySQL, requires more storage space |
+| SQLite | Public Domain | Self-contained, serverless and zero-configuration database system | Embedded applications | Lightweight, easy to use | Not suitable for large scale applications, multi-user environments |
+
+**NoSQL Databases**
+
+| Database | License | Description | Use case | Advantages | Limitations |
+|---|---|---|---|---|---|
+| MongoDB | Server Side Public License | Document database designed for ease of development and scaling | Big data, content management | High performance, easily scales | Data size generally larger than equivalent in SQL |
+| CouchDB | Apache 2.0 | Open source NoSQL database | Web applications | Easy replication, convenient web interface | Limited query options, slower than SQL databases |
+| Cassandra | Apache 2.0 | Highly scalable, distributed NoSQL database | High velocity applications, IoT | Highly scalable, replicated across many servers | Complex to set up, steep learning curve |
+| Redis | BSD 3-clause | Open source, in-memory data structure store | Caching, messaging systems | Extremely fast, supports various data types | Data size limited by memory size, persistence can be complicated |
+| HBase | Apache 2.0 | Open-source, distributed, versioned, column-oriented store | Big Data, real-time read/write access to your big data | Linear and modular scalability, strictly consistent reads and writes | High complexity, may need manual optimization |
+| DynamoDB | AWS Service (commercial) | Fully managed NoSQL database service by Amazon | Serverless Web applications, mobile backends | Seamless scalability, built-in security  | Not open source, costs can scale with usage |
 
 **Good Reads:**  
  - https://towardsdatascience.com/how-to-choose-the-right-database-afcf95541741
@@ -204,6 +248,20 @@ Consider below points while deciding which one to use, moreover it is quite poss
 **Good Reads:**  
  - https://dzone.com/articles/api-gateway-vs-service-mesh
 
+# API communication protocols
+
+| Protocol Type | Description                                                       | Use Case                                                | Advantages                                                    | Disadvantages                            |
+|---------------|-------------------------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------------|-----------------------------------------|
+| SOAP          | XML-Based messaging over HTTP or HTTPS                            | Used in web services, where the client applications communicates with services using HTTP and XML.|Highly extensible and navigable,Works well in distributed enterprise environments, Language, platform, and transport independent|Complex, requires extensive processing power|
+| REST          | Building Scalable APIs using standard HTTP Methods                | Used in web services, mobile services and any public API that needs to handle CRUD operations (Create, Read, Update, Delete).|Scalable, lightweight, easy to use, stateless|Cannot handle real-time communication like WebSockets can, not as robust as SOAP|
+| gRPC          | Query Language for APIs, Allowing Clients to Request Specific data| Used in microservices architectures to enable services to communicate with each other efficiently. |Supports various data formats, efficient communication, works over HTTP/2|Lacks browser support, complex error handling|
+| GraphQL       | High Performance framework for Remote Procedure Calls using HTTP/2| Used in complex applications where a client needs to aggregate data from different sources in a single request.|Reduced data usage, faster responses, wide adoption in industry|Development overhead, added complexity|
+| WebSocket     | Bi-Directional Real time communication protocol                  | Used in real-time applications such as chat applications, real-time financial data display, etc.|Full duplex communication, real-time data transfer|Lacks built-in security features, consumed more resources|
+| WebHook       | Event-Driven, Server side mechanism that sends HTTP callbacks     | Used in distributed event notification scenarios, like notifying a user about change in a database or updates on a website.|Real-time data pusher, no need for polling|Requires manual handling of HTTP calls, high latency|
+| MQTT          | LightWeight messaging protocol for constrained devices           | Used in Internet of Things (IoT) scenarios where a large number of devices need to communicate efficiently.|Lightweight, Reduced network bandwidth, ideal for IoT devices|Messaging model can be complex to implement, lack of formal service contract|
+| AMQP          | Open Messaging protocol for reliable communication                | Used in business messaging scenarios where reliability, delivery guarantees and message ordering are important.|Reliable and guaranteed delivery, Supports multiple messaging patterns|Complex protocols and difficult to implement, more resource-consumptive compared to other messaging protocols|
+
+
 # Implementation
 
 ## Building SaaS Micro-Services (12 Factor App)
@@ -226,6 +284,9 @@ In case you are planning to build a **'Software as a Service' (SaaS) application
 **Good read:** 
  - https://12factor.net/
  - https://medium.com/hashmapinc/how-i-use-the-twelve-factor-app-methodology-for-building-saas-applications-with-java-scala-4cdb668cc908
+
+## 3 factor App
+ - https://3factor.app/
 
 ## Frameworks Languages
 
@@ -365,6 +426,8 @@ Steps to enable the above testing
     </dependency>
         
 ```
+
+Contract testing
 
 **Good Reads:**
  - https://dzone.com/articles/using-wiremock-to-test-against-3rd-party-services

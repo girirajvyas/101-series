@@ -196,3 +196,6 @@ Java Venkat presentations from conferences:
 
 ## Tech leads
  - https://techleadjournal.dev/
+ 
+## Mind Maps
+ - https://xmind.works/
